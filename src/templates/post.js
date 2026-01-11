@@ -44,6 +44,8 @@ function postTemplate(post) {
           <time datetime="${post.date}">${formattedDate}</time>
           <span class="separator">•</span>
           <span class="category">${post.category}</span>
+          <span class="separator">•</span>
+          <span class="reading-time">${post.readingTime}</span>
         </div>
       </header>
 

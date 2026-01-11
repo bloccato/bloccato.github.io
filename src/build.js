@@ -9,6 +9,7 @@ const { parseFrontmatter } = require('./parsers/frontmatter');
 const { parseMarkdown } = require('./parsers/markdown');
 const { slugify } = require('./utils/slugify');
 const { generateExcerpt } = require('./utils/excerpt');
+const { calculateReadingTime } = require('./utils/readingTime');
 const { postTemplate } = require('./templates/post');
 const { listTemplate } = require('./templates/list');
 const { archiveTemplate } = require('./templates/archive');
@@ -69,11 +70,16 @@ function parsePost(post) {
   // Generate excerpt if not provided
   const excerpt = parsed.data.excerpt || generateExcerpt(parsed.content);
 
+  // Calculate reading time from markdown content
+  const readingTime = calculateReadingTime(parsed.content);
+
   return {
     ...parsed.data,
     slug,
     content: htmlContent,
     excerpt,
+    readingTime: readingTime.text,
+    readingMinutes: readingTime.minutes,
     filename: post.filename,
   };
 }

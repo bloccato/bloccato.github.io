@@ -20,6 +20,8 @@ function postListItem(post) {
         <time datetime="${post.date}">${formattedDate}</time>
         <span class="separator">•</span>
         <span class="category">${post.category}</span>
+        <span class="separator">•</span>
+        <span class="reading-time">${post.readingTime}</span>
       </div>
       <p class="excerpt">${post.excerpt}</p>
       <a href="/posts/${post.slug}/" class="read-more" aria-label="Leggi ${post.title}">→</a>
