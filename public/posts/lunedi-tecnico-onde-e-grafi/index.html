@@ -1,0 +1,104 @@
+<!DOCTYPE html>
+<html lang="it">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta name="description" content="Al momento sto lavorando a un progetto - sia al lavoro che fuori orario - che mi mette alla prova: automatizzare il ...">
+  <meta name="theme-color" content="#8B7355">
+  <title>Lunedì Tecnico - Onde e Grafi - Bloccato</title>
+  <link rel="stylesheet" href="/css/main.css">
+  <link rel="alternate" type="application/rss+xml" title="Bloccato RSS Feed" href="/feed.xml">
+  <link rel="icon" type="image/svg+xml" href="/favicon.svg">
+  <link rel="apple-touch-icon" href="/apple-touch-icon.svg">
+  <link rel="manifest" href="/manifest.json">
+</head>
+<body>
+  <header class="site-header" data-pagefind-ignore>
+    <nav class="container">
+      <h1 class="site-logo"><a href="/">BLOCCATO</a></h1>
+      <div class="nav-links">
+        <a href="/">Tutti</a>
+        <a href="/categoria/tecnico/">Tecnico</a>
+        <a href="/categoria/salute/">Salute</a>
+        <a href="/archivio/">Archivio</a>
+      </div>
+    </nav>
+  </header>
+
+  <main class="container" data-pagefind-body>
+    
+    <article class="post">
+      <header class="post-header">
+        <a href="/" class="back-link">← Indietro</a>
+        <h1>Lunedì Tecnico - Onde e Grafi</h1>
+        <div class="post-meta">
+          <time datetime="2026-01-06">6 Gennaio 2026</time>
+          <span class="separator">•</span>
+          <span class="category">Tecnico</span>
+        </div>
+      </header>
+
+      <div class="post-content">
+        <p>Al momento sto lavorando a un progetto - sia al lavoro che fuori orario - che mi mette alla prova: automatizzare il processo di migrazione di un’applicazione costruita su AngularJS - anzi, una grande applicazione di circa 200 mila righe di codice, al framework React.</p>
+<p>Perché? Le nostre applicazioni sono un misto di AngularJS, Angular2 e React. Google ha deprecato AngularJS il 31 dicembre 2021 e quindi adesso AngularJS ci presenta una serie di problemi come i rischi di sicurezza, la conoscenza obsoleta che ci vuole per lavorare con il framework, ecc. È assolutamente il nostro debito tecnico peggiore, ma finora la migrazione necessaria era sia difficile che costosa - soprattutto in termini di costo-opportunità.</p>
+<p>Oggi, però, con gli strumenti d’IA, il processo dovrebbe essere molto più facile. Questa è la mia teoria comunque e ciò che sto cercando adesso di dimostrare.</p>
+<p>Gli strumenti che uso quotidianamente per questo progetto:</p>
+<ul>
+<li>Gemini (sull’app) - lavoriamo insieme sulle specifiche. Per iniziare le ho descritto cosa volevo costruire, e perché, e insieme abbiamo fatto la prima specificazione.</li>
+<li>VSCode e Claude Sonnet 4.5 - Prendo le istruzioni dalla spec, costruisco un “prompt”, e poi lo do a Claude.</li>
+</ul>
+<p>In un altro post in futuro spiegherò l’architettura dato che è troppo complicata per un post infrasettimanale. In breve, il mio progetto è un pipeline autonoma per la produzione di software che combina l’informatica (teoria dei grafi, analisi (dell’AST)), l’intelligenza artificiale (lla generazione di codice tramite LLM) e le migliori pratiche di ingegneria del software (TDD) per risolvere uno dei problemi più costosi nel software aziendale ovvero la modernizzazione del codice legacy.</p>
+<p>Ad oggi ho raggiunto un buon punto nel progetto - il sistema sembra funzionare. Ho trovato un sacco di nuovi problemi oggi - per esempio ho scoperto che l’implementazione era “monomorphic” e deve essere “polymorphic”, ma l’ho sistemato prima. Domani sono sicuro che ne troverò più, ma se posso “decifrare il codice” qui, ci risparmieremo molti anni di lavoro, forse miliardi di dollari e avrò imparato qualcosa di molto importante e prezioso.</p>
+
+      </div>
+
+      <footer class="post-footer">
+        
+        <nav class="post-navigation">
+         <a href="/posts/martedi-di-salute-dormire-bene/" class="nav-prev">← Martedì di Salute - Dormire Bene</a>
+         <a href="/posts/l-inverno-demografico-nell-occidente/" class="nav-next">L'Inverno Demografico Nell'Occidente →</a>
+       </nav>
+      </footer>
+    </article>
+  
+  </main>
+
+  <footer class="site-footer" data-pagefind-ignore>
+    <div class="container">
+      <p>&copy; 2026 Bloccato</p>
+    </div>
+  </footer>
+  <script>
+    window.addEventListener('DOMContentLoaded', async () => {
+      const searchContainer = document.querySelector('.search-container');
+      if (searchContainer) {
+        // Clear existing content and create Pagefind container
+        searchContainer.innerHTML = '<div id="pagefind-search"></div>';
+
+        // Load and initialize Pagefind UI
+        const script = document.createElement('script');
+        script.src = '/pagefind/pagefind-ui.js';
+        script.onload = () => {
+          new PagefindUI({
+            element: "#pagefind-search",
+            showSubResults: false,
+            showImages: false,
+            excerptLength: 20,
+            translations: {
+              placeholder: "Cerca nel blog..."
+            }
+          });
+        };
+        document.head.appendChild(script);
+
+        // Load Pagefind UI CSS
+        const link = document.createElement('link');
+        link.rel = 'stylesheet';
+        link.href = '/pagefind/pagefind-ui.css';
+        document.head.appendChild(link);
+      }
+    });
+  </script>
+  <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+</body>
+</html>

@@ -1,0 +1,816 @@
+/**
+ * Bloccato - Minimalist Blog Styles
+ * Design: Muji-inspired minimalism
+ * Based on DESIGN_SPEC.md
+ */
+
+/* ========================================
+   Font Loading
+   ======================================== */
+
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600&display=swap');
+
+/* ========================================
+   CSS Variables (Design Tokens)
+   ======================================== */
+
+:root {
+  /* Colors */
+  --color-text-primary: #2C2C2C;
+  --color-text-secondary: #6B6B6B;
+  --color-text-tertiary: #8B8B8B;
+  --color-accent: #8B7355;
+  --color-accent-hover: #6D5A42;
+  --color-background: #FAFAF8;
+  --color-surface: #FFFFFF;
+  --color-border: #E8E8E6;
+  --color-border-hover: #D0D0CE;
+
+  /* Typography */
+  --font-primary: 'Inter', -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif;
+  --font-mono: 'JetBrains Mono', 'Courier New', monospace;
+
+  --text-xs: 0.75rem;
+  --text-sm: 0.875rem;
+  --text-base: 1.125rem;
+  --text-lg: 1.25rem;
+  --text-xl: 1.75rem;
+  --text-2xl: 2.5rem;
+
+  --weight-regular: 400;
+  --weight-medium: 500;
+  --weight-semibold: 600;
+
+  --leading-tight: 1.2;
+  --leading-normal: 1.5;
+  --leading-relaxed: 1.7;
+
+  /* Spacing */
+  --space-1: 0.25rem;
+  --space-2: 0.5rem;
+  --space-3: 0.75rem;
+  --space-4: 1rem;
+  --space-6: 1.5rem;
+  --space-8: 2rem;
+  --space-12: 3rem;
+  --space-16: 4rem;
+
+  /* Layout */
+  --max-content-width: 680px;
+  --container-padding: clamp(1.5rem, 5vw, 3rem);
+  --border-radius: 2px;
+}
+
+/* ========================================
+   Reset & Base Styles
+   ======================================== */
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+html {
+  font-size: 16px;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+body {
+  font-family: var(--font-primary);
+  font-size: var(--text-base);
+  font-weight: var(--weight-regular);
+  line-height: var(--leading-relaxed);
+  color: var(--color-text-primary);
+  background-color: #FAFAF8; /* Warm off-white background */
+}
+
+/* ========================================
+   Layout Components
+   ======================================== */
+
+.container {
+  max-width: var(--max-content-width);
+  margin: 0 auto;
+  padding: 0 var(--container-padding);
+}
+
+main {
+  min-height: 60vh;
+  padding: var(--space-16) 0;
+}
+
+/* ========================================
+   Header & Navigation
+   ======================================== */
+
+.site-header {
+  background-color: var(--color-background);
+  border-bottom: 1px solid var(--color-border);
+  padding: var(--space-6) 0;
+  position: sticky;
+  top: 0;
+  z-index: 100;
+  backdrop-filter: blur(10px);
+  background-color: rgba(250, 250, 248, 0.95);
+}
+
+.site-header nav {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  flex-wrap: wrap;
+  gap: var(--space-4);
+}
+
+.site-logo {
+  font-size: var(--text-base);
+  font-weight: var(--weight-semibold);
+  letter-spacing: 0.15em;
+  text-transform: uppercase;
+  margin: 0;
+}
+
+.site-logo a {
+  color: var(--color-text-primary);
+  text-decoration: none;
+}
+
+.nav-links {
+  display: flex;
+  gap: 2rem; /* 32px spacing between nav items */
+}
+
+.nav-links a {
+  color: var(--color-text-secondary);
+  text-decoration: none;
+  font-size: var(--text-sm);
+  font-weight: var(--weight-regular);
+  transition: color 150ms ease-in-out;
+}
+
+.nav-links a:hover {
+  color: var(--color-accent);
+}
+
+/* ========================================
+   Footer
+   ======================================== */
+
+.site-footer {
+  border-top: 1px solid var(--color-border);
+  padding: var(--space-8) 0;
+  margin-top: var(--space-16);
+}
+
+.site-footer p {
+  color: var(--color-text-tertiary);
+  font-size: var(--text-sm);
+  text-align: center;
+}
+
+/* ========================================
+   Typography
+   ======================================== */
+
+h1, h2, h3, h4, h5, h6 {
+  font-weight: var(--weight-medium);
+  line-height: var(--leading-tight);
+  color: var(--color-text-primary);
+}
+
+h1 {
+  font-size: var(--text-2xl);
+  font-weight: var(--weight-semibold);
+  margin-bottom: var(--space-12);
+}
+
+h2 {
+  font-size: var(--text-xl);
+  margin-top: var(--space-8);
+  margin-bottom: var(--space-4);
+}
+
+h3 {
+  font-size: var(--text-lg);
+  margin-top: var(--space-6);
+  margin-bottom: var(--space-3);
+}
+
+p {
+  margin-bottom: var(--space-6);
+}
+
+a {
+  color: var(--color-accent);
+  transition: color 150ms ease-in-out;
+}
+
+a:hover {
+  color: var(--color-accent-hover);
+}
+
+a:focus-visible {
+  outline: 2px solid var(--color-accent);
+  outline-offset: 2px;
+}
+
+/* ========================================
+   Post List
+   ======================================== */
+
+.post-list {
+  padding: var(--space-8) 0;
+}
+
+.page-heading {
+  margin-bottom: var(--space-8);
+}
+
+.search-container {
+  margin-bottom: var(--space-12);
+}
+
+#search {
+  width: 100%;
+  max-width: 320px;
+  padding: var(--space-4) var(--space-4);
+  border: 1px solid var(--color-border);
+  border-radius: var(--border-radius);
+  font-family: var(--font-primary);
+  font-size: var(--text-base);
+  background-color: var(--color-surface);
+  transition: border-color 150ms ease-in-out;
+}
+
+#search:focus {
+  outline: none;
+  border-color: var(--color-accent);
+}
+
+#search::placeholder {
+  color: var(--color-text-tertiary);
+}
+
+/* Pagefind UI custom styling to match Muji design */
+#pagefind-search {
+  max-width: 320px;
+}
+
+#pagefind-search .pagefind-ui__search-input {
+  width: 100%;
+  padding: var(--space-4);
+  padding-left: 2.5rem; /* Extra padding for magnifying glass icon */
+  border: 1px solid var(--color-border);
+  border-radius: var(--border-radius);
+  font-family: var(--font-primary);
+  font-size: var(--text-base);
+  background-color: var(--color-surface);
+  color: var(--color-text-primary);
+  transition: border-color 150ms ease-in-out;
+}
+
+#pagefind-search .pagefind-ui__search-input:focus {
+  outline: none;
+  border-color: var(--color-accent);
+}
+
+#pagefind-search .pagefind-ui__search-input::placeholder {
+  color: var(--color-text-tertiary);
+}
+
+#pagefind-search .pagefind-ui__results {
+  margin-top: var(--space-4);
+}
+
+#pagefind-search .pagefind-ui__result {
+  border: none;
+  border-bottom: 1px solid var(--color-border);
+  padding: var(--space-4) 0;
+}
+
+#pagefind-search .pagefind-ui__result-title {
+  font-family: var(--font-primary);
+  font-size: var(--text-base);
+  font-weight: var(--weight-medium);
+  color: var(--color-text-primary);
+}
+
+#pagefind-search .pagefind-ui__result-excerpt {
+  font-family: var(--font-primary);
+  font-size: var(--text-sm);
+  color: var(--color-text-secondary);
+  margin-top: var(--space-2);
+  line-height: var(--leading-normal);
+}
+
+#pagefind-search .pagefind-ui__result-link {
+  text-decoration: none;
+  color: inherit;
+}
+
+#pagefind-search .pagefind-ui__result-link:hover .pagefind-ui__result-title {
+  color: var(--color-accent);
+}
+
+#pagefind-search .pagefind-ui__message {
+  font-family: var(--font-primary);
+  font-size: var(--text-sm);
+  color: var(--color-text-secondary);
+  padding: var(--space-4) 0;
+}
+
+/* Search term highlighting - subtle beige instead of bright yellow */
+#pagefind-search mark,
+#pagefind-search .pagefind-ui__result-excerpt mark {
+  background-color: #F0E6D2;
+  color: var(--color-text-primary);
+  font-weight: var(--weight-medium);
+  padding: 0;
+}
+
+/* Button styling for "Show more results" */
+#pagefind-search .pagefind-ui__button {
+  background-color: var(--color-surface);
+  border: 1px solid var(--color-border);
+  border-radius: var(--border-radius);
+  color: var(--color-text-secondary);
+  font-family: var(--font-primary);
+  font-size: var(--text-sm);
+  font-weight: var(--weight-regular);
+  padding: var(--space-3) var(--space-6);
+  cursor: pointer;
+  transition: all 150ms ease-in-out;
+  margin-top: var(--space-4);
+  line-height: 1.2;
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+}
+
+#pagefind-search .pagefind-ui__button:hover {
+  border-color: var(--color-accent);
+  color: var(--color-accent);
+}
+
+#pagefind-search .pagefind-ui__button:focus {
+  outline: 2px solid var(--color-accent);
+  outline-offset: 2px;
+}
+
+/* Search clear button */
+#pagefind-search .pagefind-ui__search-clear {
+  color: var(--color-text-tertiary);
+  background: transparent;
+  border: none;
+  cursor: pointer;
+  padding: var(--space-2);
+  transition: color 150ms ease-in-out;
+}
+
+#pagefind-search .pagefind-ui__search-clear:hover {
+  color: var(--color-text-secondary);
+}
+
+/* Result count styling */
+#pagefind-search .pagefind-ui__results-area {
+  font-family: var(--font-primary);
+}
+
+#pagefind-search .pagefind-ui__drawer {
+  background-color: var(--color-surface);
+  border: 1px solid var(--color-border);
+  border-radius: var(--border-radius);
+  padding: var(--space-4);
+  margin-top: var(--space-2);
+  box-shadow: 0 2px 8px rgba(0, 0, 0, 0.05);
+}
+
+/* Search icon styling */
+#pagefind-search .pagefind-ui__search-input::before,
+#pagefind-search .pagefind-ui__form::before {
+  color: var(--color-text-tertiary);
+}
+
+/* Wrapper around search input */
+#pagefind-search .pagefind-ui__form {
+  position: relative;
+}
+
+.post-item {
+  padding: var(--space-12) 0;
+  border-bottom: 1px solid var(--color-border);
+  position: relative;
+  transition: all 150ms ease-in-out;
+}
+
+.post-item:last-child {
+  border-bottom: 1px solid var(--color-border);
+}
+
+.post-item h2 {
+  font-size: var(--text-xl);
+  font-weight: var(--weight-medium);
+  margin: 0 0 var(--space-2) 0;
+}
+
+.post-item h2 a {
+  color: var(--color-text-primary);
+  text-decoration: none;
+  transition: color 150ms ease-in-out;
+}
+
+.post-item h2 a:hover {
+  color: var(--color-accent);
+}
+
+.post-meta {
+  display: flex;
+  align-items: center;
+  gap: var(--space-2);
+  font-size: var(--text-sm);
+  color: var(--color-text-secondary);
+  margin-bottom: var(--space-4);
+}
+
+.separator {
+  color: #D0D0CE; /* Lighter separator */
+}
+
+.category {
+  color: var(--color-accent);
+  font-weight: var(--weight-medium);
+}
+
+.excerpt {
+  color: var(--color-text-secondary);
+  margin-bottom: var(--space-4);
+  line-height: 1.6; /* Slightly tighter for previews */
+}
+
+.read-more {
+  display: inline-block;
+  color: var(--color-accent);
+  font-size: 1.5rem;
+  text-decoration: none;
+  transition: transform 150ms ease-in-out;
+  font-weight: var(--weight-regular);
+}
+
+.read-more:hover {
+  transform: translateX(4px);
+  color: var(--color-accent-hover);
+}
+
+/* ========================================
+   Post Page
+   ======================================== */
+
+.post {
+  padding: var(--space-8) 0;
+}
+
+.post-header {
+  margin-bottom: var(--space-12);
+}
+
+.back-link {
+  display: inline-block;
+  color: var(--color-text-tertiary);
+  text-decoration: none;
+  font-size: var(--text-sm);
+  margin-bottom: var(--space-4);
+  transition: color 150ms ease-in-out;
+  font-weight: var(--weight-regular);
+}
+
+.back-link:hover {
+  color: var(--color-accent);
+}
+
+.post h1 {
+  margin-bottom: var(--space-4);
+}
+
+.post-content {
+  margin-bottom: var(--space-16);
+}
+
+.post-content h2 {
+  margin-top: var(--space-12);
+}
+
+.post-content h3 {
+  margin-top: var(--space-8);
+}
+
+.post-content ul,
+.post-content ol {
+  margin-left: var(--space-8);
+  margin-bottom: var(--space-6);
+}
+
+.post-content li {
+  margin-bottom: var(--space-2);
+}
+
+.post-content blockquote {
+  border-left: 3px solid var(--color-accent);
+  padding-left: var(--space-8);
+  margin: var(--space-8) 0;
+  font-style: italic;
+  color: var(--color-text-secondary);
+}
+
+.post-content code {
+  font-family: var(--font-mono);
+  font-size: 0.9em;
+  background-color: #F5F5F3;
+  padding: 0.2em 0.4em;
+  border-radius: var(--border-radius);
+}
+
+.post-content pre {
+  background-color: #F5F5F3;
+  padding: var(--space-6);
+  border-radius: var(--border-radius);
+  overflow-x: auto;
+  margin: var(--space-8) 0;
+}
+
+.post-content pre code {
+  background: none;
+  padding: 0;
+}
+
+.post-content img {
+  max-width: 100%;
+  height: auto;
+  margin: var(--space-8) 0;
+  border-radius: var(--border-radius);
+}
+
+.post-content a {
+  text-decoration: underline;
+}
+
+.post-content .twitter-tweet {
+  margin: var(--space-8) auto !important;
+  max-width: 550px;
+}
+
+.post-footer {
+  border-top: 1px solid var(--color-border);
+  padding-top: var(--space-8);
+}
+
+.post-tags {
+  margin-bottom: var(--space-8);
+}
+
+.tag {
+  display: inline-block;
+  background-color: #F5F5F3;
+  color: var(--color-text-secondary);
+  padding: var(--space-1) var(--space-3);
+  border-radius: var(--border-radius);
+  font-size: var(--text-sm);
+  margin-right: var(--space-2);
+  margin-bottom: var(--space-2);
+}
+
+.post-navigation {
+  display: flex;
+  justify-content: space-between;
+  gap: var(--space-4);
+  margin-top: var(--space-8);
+}
+
+.post-navigation a {
+  color: var(--color-accent);
+  text-decoration: none;
+  font-size: var(--text-sm);
+  transition: color 150ms ease-in-out;
+}
+
+.post-navigation a:hover {
+  color: var(--color-accent-hover);
+}
+
+.nav-prev {
+  text-align: left;
+}
+
+.nav-next {
+  text-align: right;
+}
+
+/* ========================================
+   Archive Page
+   ======================================== */
+
+.archive h1 {
+  margin-top: var(--space-8);
+  margin-bottom: var(--space-12);
+}
+
+.archive-year {
+  margin-bottom: var(--space-16);
+}
+
+.archive-year h2 {
+  font-size: var(--text-2xl);
+  margin-bottom: var(--space-8);
+}
+
+.archive-month {
+  margin-bottom: var(--space-8);
+}
+
+.archive-month h3 {
+  font-size: var(--text-xl);
+  font-weight: var(--weight-medium);
+  margin-bottom: var(--space-4);
+}
+
+.count {
+  font-size: var(--text-sm);
+  color: var(--color-text-secondary);
+  font-weight: var(--weight-regular);
+}
+
+.archive-list {
+  list-style: none;
+  margin: 0;
+}
+
+.archive-list li {
+  display: flex;
+  justify-content: space-between;
+  align-items: baseline;
+  gap: var(--space-4);
+  padding: var(--space-2) 0;
+  border-bottom: 1px solid var(--color-border);
+}
+
+.archive-list li:last-child {
+  border-bottom: none;
+}
+
+.archive-list a {
+  color: var(--color-text-primary);
+  text-decoration: none;
+  flex: 1;
+  transition: color 150ms ease-in-out;
+}
+
+.archive-list a:hover {
+  color: var(--color-accent);
+}
+
+.archive-list time {
+  color: var(--color-text-tertiary);
+  font-size: var(--text-sm);
+  white-space: nowrap;
+}
+
+/* ========================================
+   Pagination
+   ======================================== */
+
+.pagination {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin-top: var(--space-16);
+  padding-top: var(--space-8);
+  border-top: 1px solid var(--color-border);
+}
+
+.pagination a {
+  color: var(--color-accent);
+  text-decoration: none;
+  font-size: var(--text-sm);
+  transition: color 150ms ease-in-out;
+}
+
+.pagination a:hover {
+  color: var(--color-accent-hover);
+}
+
+.pagination-info {
+  color: var(--color-text-tertiary);
+  font-size: var(--text-sm);
+}
+
+/* ========================================
+   Responsive Design
+   ======================================== */
+
+@media (max-width: 639px) {
+  :root {
+    --text-base: 1rem;
+    --text-xl: 1.5rem;
+    --text-2xl: 2rem;
+  }
+
+  .site-header nav {
+    flex-direction: column;
+    align-items: flex-start;
+    gap: var(--space-6);
+  }
+
+  .nav-links {
+    gap: var(--space-6); /* More spacing on mobile */
+    flex-wrap: wrap;
+  }
+
+  #search {
+    max-width: 100%;
+  }
+
+  /* Pagefind search responsive */
+  #pagefind-search {
+    max-width: 100%;
+  }
+
+  #pagefind-search .pagefind-ui__search-input {
+    font-size: 1rem; /* Slightly smaller on mobile */
+    padding: var(--space-3);
+    padding-left: 2.5rem;
+  }
+
+  #pagefind-search .pagefind-ui__result {
+    padding: var(--space-3) 0;
+  }
+
+  #pagefind-search .pagefind-ui__result-title {
+    font-size: 1rem;
+  }
+
+  #pagefind-search .pagefind-ui__result-excerpt {
+    font-size: 0.875rem;
+  }
+
+  #pagefind-search .pagefind-ui__button {
+    width: 100%;
+    padding: var(--space-3) var(--space-4);
+  }
+
+  #pagefind-search .pagefind-ui__drawer {
+    padding: var(--space-3);
+  }
+
+  .post-navigation {
+    flex-direction: column;
+  }
+
+  .nav-next {
+    text-align: left;
+  }
+}
+
+@media (min-width: 640px) and (max-width: 1023px) {
+  :root {
+    --text-base: 1.0625rem;
+  }
+
+  #search {
+    max-width: 280px;
+  }
+
+  /* Pagefind search on tablets */
+  #pagefind-search {
+    max-width: 280px;
+  }
+}
+
+@media (min-width: 1024px) {
+  /* Desktop styles - defaults apply */
+}
+
+/* ========================================
+   Print Styles
+   ======================================== */
+
+@media print {
+  .site-header,
+  .site-footer,
+  .back-link,
+  .post-navigation,
+  .pagination,
+  .search-container {
+    display: none;
+  }
+
+  body {
+    background: white;
+    color: black;
+  }
+
+  a {
+    color: black;
+    text-decoration: underline;
+  }
+}

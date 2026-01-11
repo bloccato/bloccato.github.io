@@ -1,0 +1,93 @@
+<!DOCTYPE html>
+<html lang="it">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta name="description" content="Blog minimalista italiano - riflessioni su tecnologia, salute e vita quotidiana">
+  <meta name="theme-color" content="#8B7355">
+  <title>Lingua - Bloccato</title>
+  <link rel="stylesheet" href="/css/main.css">
+  <link rel="alternate" type="application/rss+xml" title="Bloccato RSS Feed" href="/feed.xml">
+  <link rel="icon" type="image/svg+xml" href="/favicon.svg">
+  <link rel="apple-touch-icon" href="/apple-touch-icon.svg">
+  <link rel="manifest" href="/manifest.json">
+</head>
+<body>
+  <header class="site-header" data-pagefind-ignore>
+    <nav class="container">
+      <h1 class="site-logo"><a href="/">BLOCCATO</a></h1>
+      <div class="nav-links">
+        <a href="/">Tutti</a>
+        <a href="/categoria/tecnico/">Tecnico</a>
+        <a href="/categoria/salute/">Salute</a>
+        <a href="/archivio/">Archivio</a>
+      </div>
+    </nav>
+  </header>
+
+  <main class="container" data-pagefind-body>
+    
+    <div class="post-list">
+      <h1 class="page-heading">Lingua</h1>
+
+      <div class="search-container">
+        <input type="search" id="search" placeholder="Cerca nel blog..." />
+      </div>
+
+      
+    <article class="post-item">
+      <h2><a href="/posts/venerdi-di-lingua-davanti-all-onda-e-oltre-il-droplet/">Venerdì di Lingua: Davanti all'Onda e Oltre il Droplet</a></h2>
+      <div class="post-meta">
+        <time datetime="2026-01-10">10 Gennaio 2026</time>
+        <span class="separator">•</span>
+        <span class="category">Lingua</span>
+      </div>
+      <p class="excerpt">È finalmente il fine settimana, meno male, e dovrò tenere questo post breve perché parallelamente sto anche costruendo ...</p>
+      <a href="/posts/venerdi-di-lingua-davanti-all-onda-e-oltre-il-droplet/" class="read-more" aria-label="Leggi Venerdì di Lingua: Davanti all'Onda e Oltre il Droplet">→</a>
+    </article>
+  
+
+      
+    </div>
+  
+  </main>
+
+  <footer class="site-footer" data-pagefind-ignore>
+    <div class="container">
+      <p>&copy; 2026 Bloccato</p>
+    </div>
+  </footer>
+  <script>
+    window.addEventListener('DOMContentLoaded', async () => {
+      const searchContainer = document.querySelector('.search-container');
+      if (searchContainer) {
+        // Clear existing content and create Pagefind container
+        searchContainer.innerHTML = '<div id="pagefind-search"></div>';
+
+        // Load and initialize Pagefind UI
+        const script = document.createElement('script');
+        script.src = '/pagefind/pagefind-ui.js';
+        script.onload = () => {
+          new PagefindUI({
+            element: "#pagefind-search",
+            showSubResults: false,
+            showImages: false,
+            excerptLength: 20,
+            translations: {
+              placeholder: "Cerca nel blog..."
+            }
+          });
+        };
+        document.head.appendChild(script);
+
+        // Load Pagefind UI CSS
+        const link = document.createElement('link');
+        link.rel = 'stylesheet';
+        link.href = '/pagefind/pagefind-ui.css';
+        document.head.appendChild(link);
+      }
+    });
+  </script>
+  <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+</body>
+</html>

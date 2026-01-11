@@ -1,0 +1,23 @@
+{
+  "name": "Bloccato",
+  "short_name": "Bloccato",
+  "description": "Blog minimalista italiano - riflessioni su tecnologia, salute e vita quotidiana",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#FAFAF8",
+  "theme_color": "#8B7355",
+  "icons": [
+    {
+      "src": "/icon-192.svg",
+      "sizes": "192x192",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "/icon-512.svg",
+      "sizes": "512x512",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ]
+}

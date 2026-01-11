@@ -1,0 +1,557 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[Bloccato]]></title>
+        <description><![CDATA[Blog minimalista italiano]]></description>
+        <link>https://bloccato.xyz</link>
+        <generator>RSS for Node</generator>
+        <lastBuildDate>Sun, 11 Jan 2026 04:24:03 GMT</lastBuildDate>
+        <atom:link href="https://bloccato.xyz/feed.xml" rel="self" type="application/rss+xml"/>
+        <pubDate>Sun, 11 Jan 2026 04:24:03 GMT</pubDate>
+        <language><![CDATA[it]]></language>
+        <item>
+            <title><![CDATA[Venerdì di Lingua: Davanti all'Onda e Oltre il Droplet]]></title>
+            <description><![CDATA[<p>È finalmente il fine settimana, meno male, e dovrò tenere questo post breve perché parallelamente sto anche costruendo un’alternativa con Claude Code verso la quale trasferirò tutto il contenuto durante il weekend. Finora ho ospitato questo sito su un “droplet” su DigitalOcean con un’istanza di Wordpress per mantenere il contenuto ma l’ho trovato troppo impegnativo per un sito così semplice. Ad esempio, recentemente ho dovuto aggiornare il sistema operativo (Ubuntu), poi fare lo stesso per Wordpress, Nginx ecc.Poi ho dovuto installare alcune pacchetti per la sicurezza di Wordpress e così via e così via.</p>
+<p>Con Claude Code abbiamo creato un sistema più semplice, locale, che sarà ospitato su Github Pages; sarà poi facile cambiare il nome di domino. Mi sto divertendo molto con Claude Code, devo dire, è qualcosa che non avrei mai potuto immaginare e adesso è disponibile a tutti per un prezzo molto onesto.</p>
+<p>Questo tweet, di Tobi Lutke (Shopify CEO), riassume bene i miei sentimenti al riguardo.</p>
+<p><blockquote class="twitter-tweet" data-theme="light"><a href="https://twitter.com/tobi/status/2009311882553765914"></a></blockquote></p>
+<p>Sembra già come magico e, da dicembre ad adesso, il tasso di cambiamento è stato incredibile… cosa posso dire… come se fossimo stati colpiti da un fulmine. Mi rende ansioso perché aumenta l’incertezza, soprattutto per quanto riguarda il lavoro, ma provo un certo senso di pace ad affrontare l’onda invece di negarla, o di fingere che succederà nulla e che tutto sia “hype”, la propaganda delle Big Tech, e nascondendo la testa sotto la sabbia.</p>
+<p>Per quanto riguarda il mio studio dell’italiano questa settimana - ho fatto due lezioni formali (un’ora ciascuna) e una di conversazione (di mezz’ora) e tutto è andato bene. Ho anche scoperto “Melog” di Radio 24 che ascolto quando vado in palestra la mattina. Ottimo programma, argomenti vari e italiano chiaro. Mi piace ancora La Zanzara di Radio 24 ma ultimamente, quando sono in palestra trovo che preferisco non ascoltare nulla.</p>
+<p>Qualche tema che ho studiato questa settimana:</p>
+<ul>
+<li>La Befana, e in particolare la storia di La Befana</li>
+<li>L’Italia sostenibile. Qualche parola nuova compreso:
+<ul>
+<li>Gli imballaggi</li>
+<li>Le inondazioni</li>
+<li>Le frane</li>
+<li>Gli orti</li>
+<li>I rubinetti - lo sapevo ma l’ho dimenticato</li>
+</ul>
+</li>
+<li>Ovviamente per il blog ho coperto
+<ul>
+<li>Il settore finanziario - ben rifugio, rialzo/ribasso, scommettere su</li>
+<li>Il settore tecnico - analisi dell’AST, onde e nodi</li>
+</ul>
+</li>
+</ul>
+<p>E andiamo avanti.</p>
+]]></description>
+            <link>https://bloccato.xyz/posts/venerdi-di-lingua-davanti-all-onda-e-oltre-il-droplet/</link>
+            <guid isPermaLink="true">https://bloccato.xyz/posts/venerdi-di-lingua-davanti-all-onda-e-oltre-il-droplet/</guid>
+            <category><![CDATA[Lingua]]></category>
+            <pubDate>Sat, 10 Jan 2026 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Mercoledì di Mercato - Tempi Strani]]></title>
+            <description><![CDATA[<p>Considerando che questo fine settimana ci sono stati diversi eventi internazionali, inclusa la cattura di Nicolás Maduro e le conseguenze che ne deriveranno sicuramente, mi sembra strano che ieri La Borsa abbia raggiunto un record storico, compresi  i titoli tecnologici, in un periodo in cui quasi tutti stanno parlando di una bolla nel settore tech.</p>
+<p>Da dove viene questo ottimismo?</p>
+<p>Certamente, i titoli della difesa rimangono in forte rialzo. Non è una sorpresa perché adesso sembra quasi certo che ci sarà un’altra guerra mondiale.</p>
+<p>Alcuni titoli/ETF che sto monitorando:</p>
+<p>Themes Transatlantic Defense ETF (NATO)</p>
+<p>iShares US Aerospace &amp; Defense ETF ($BATS:ITA / $<a href="http://xad.to">XAD.TO</a> in Canada)</p>
+<p>State Street SPDR S&amp;P Aerospace &amp; Defense ETF ($XAR)</p>
+<p>Ovviamente Palantir Technologies Inc ($PLTR)</p>
+<p>Oggi, c’è stata più incertezza come abbiamo visto con la cattura di una petroliera di proprietà della Russia da parte degli Stati Uniti, e subito dopo c’è stato un incidente in America in cui una manifestante è stata uccisa per mano dell’ICE. Il S&amp;P 500 ha aperto stamattina con ottimismo ma dopo mezzogiorno è sceso al di sotto del suo valore di apertura.</p>
+<p>Da un investitore, questi sono tempi d’ansia e sembra impossibile sapere cosa fare - forse lasciare gli ETF e le azioni e guardare alle obbligazioni? Investire nei titoli della difesa? Ma cosa significherà quando c’è un’altra guerra mondiale? Oro? Argento?</p>
+<p>Scommettiamo su una guerra e speriamo che le aziende tecnologiche ne traggano vantaggio?</p>
+<p>Tempi strani.</p>
+]]></description>
+            <link>https://bloccato.xyz/posts/mercoledi-di-mercato-tempi-strani/</link>
+            <guid isPermaLink="true">https://bloccato.xyz/posts/mercoledi-di-mercato-tempi-strani/</guid>
+            <category><![CDATA[Mercato]]></category>
+            <pubDate>Thu, 08 Jan 2026 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Martedì di Salute - Dormire Bene]]></title>
+            <description><![CDATA[<p>Dato che ho solo ridefinito i miei obiettivi 6 giorni fa, oggi facciamo un “check-in” breve.</p>
+<p><strong>Il Sonno</strong></p>
+<p>Ho cercato di dormire bene, almeno sette ore ogni notte, e finora direi che l’ho fatto abbastanza bene. Ho istituito una routine serale per “wind down” / rilassarmi prima di andare a letto cioè mangiare l’ultimo pasto della giornata almeno tre ore prima di addormentarmi, smettere di usare gli schermi un’ora prima ecc. Ho anche cambiato il tempo in cui prendo i miei integratori tranne il magnesio e lo zinco che prendo subito prima di andare a letto.</p>
+<p>Queste cose sembrano aver funzionato bene perché 4 notti su 5 ho dormito tranquillamente per almeno sette ore. L’altra notte ho avuto alcune difficoltà, mi sono addormentato verso le 2 che poi mi ha costretto a saltare la palestra per garantire che avrei avuto almeno 6 ore di sonno. Quindi sono contento coi risultati finora.</p>
+<p><strong>L’Allenamento</strong></p>
+<p>Le sessioni in palestra sono andate benissimo, ovviamente escluso quella sessione che dovevo saltare come ho menzionato sopra. Durante il fine settimana la palestra sembrava uno zoo ma durante la settimana lavorativa non ci sono stati problemi. Mi sa che i turisti di gennaio preferiscano andare solo nei fine settimana, ma vedremo, forse è solo una coincidenza.</p>
+<p>Curiosamente, sabato ho allenato duramente le mie gambe e mi sento ancora i dolori post-allenamento, nonostante abbia usato il mio “Theragun”, consumato una quantità adeguata di proteine e così via. Sto camminando come un pinguino, come dicono.</p>
+<p>Domenica ho fatto una lunga escursione con uno dei miei cani (l’altro è troppo vecchio per questo tipo di esercizio) sulla scarpata del Niagara qui. Con le mie gambe doloranti non è stata molto piacevole ma ce la siamo goduta comunque.</p>
+<p><strong>Il cibo</strong></p>
+<p>Ho cominciato ad usare l’app Macrofactor per tracciare le mie calorie / i macro e finora sono impressionato. È semplice e diretto, le funzioni dell’IA funzionano abbastanza bene tranne il peso o la quantità del cibo.</p>
+<p>E continuiamo domani.</p>
+]]></description>
+            <link>https://bloccato.xyz/posts/martedi-di-salute-dormire-bene/</link>
+            <guid isPermaLink="true">https://bloccato.xyz/posts/martedi-di-salute-dormire-bene/</guid>
+            <category><![CDATA[Salute]]></category>
+            <pubDate>Wed, 07 Jan 2026 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Lunedì Tecnico - Onde e Grafi]]></title>
+            <description><![CDATA[<p>Al momento sto lavorando a un progetto - sia al lavoro che fuori orario - che mi mette alla prova: automatizzare il processo di migrazione di un’applicazione costruita su AngularJS - anzi, una grande applicazione di circa 200 mila righe di codice, al framework React.</p>
+<p>Perché? Le nostre applicazioni sono un misto di AngularJS, Angular2 e React. Google ha deprecato AngularJS il 31 dicembre 2021 e quindi adesso AngularJS ci presenta una serie di problemi come i rischi di sicurezza, la conoscenza obsoleta che ci vuole per lavorare con il framework, ecc. È assolutamente il nostro debito tecnico peggiore, ma finora la migrazione necessaria era sia difficile che costosa - soprattutto in termini di costo-opportunità.</p>
+<p>Oggi, però, con gli strumenti d’IA, il processo dovrebbe essere molto più facile. Questa è la mia teoria comunque e ciò che sto cercando adesso di dimostrare.</p>
+<p>Gli strumenti che uso quotidianamente per questo progetto:</p>
+<ul>
+<li>Gemini (sull’app) - lavoriamo insieme sulle specifiche. Per iniziare le ho descritto cosa volevo costruire, e perché, e insieme abbiamo fatto la prima specificazione.</li>
+<li>VSCode e Claude Sonnet 4.5 - Prendo le istruzioni dalla spec, costruisco un “prompt”, e poi lo do a Claude.</li>
+</ul>
+<p>In un altro post in futuro spiegherò l’architettura dato che è troppo complicata per un post infrasettimanale. In breve, il mio progetto è un pipeline autonoma per la produzione di software che combina l’informatica (teoria dei grafi, analisi (dell’AST)), l’intelligenza artificiale (lla generazione di codice tramite LLM) e le migliori pratiche di ingegneria del software (TDD) per risolvere uno dei problemi più costosi nel software aziendale ovvero la modernizzazione del codice legacy.</p>
+<p>Ad oggi ho raggiunto un buon punto nel progetto - il sistema sembra funzionare. Ho trovato un sacco di nuovi problemi oggi - per esempio ho scoperto che l’implementazione era “monomorphic” e deve essere “polymorphic”, ma l’ho sistemato prima. Domani sono sicuro che ne troverò più, ma se posso “decifrare il codice” qui, ci risparmieremo molti anni di lavoro, forse miliardi di dollari e avrò imparato qualcosa di molto importante e prezioso.</p>
+]]></description>
+            <link>https://bloccato.xyz/posts/lunedi-tecnico-onde-e-grafi/</link>
+            <guid isPermaLink="true">https://bloccato.xyz/posts/lunedi-tecnico-onde-e-grafi/</guid>
+            <category><![CDATA[Tecnico]]></category>
+            <pubDate>Tue, 06 Jan 2026 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[L'Inverno Demografico Nell'Occidente]]></title>
+            <description><![CDATA[<p>È il fine settimana e dunque è tempo per un post di riflessione, e il tema per questo post mi è venuto in mente durante la settimana quando ho guardato due video su youtube  che si sono trattati questo tema - L’Inverno Demografico nell’Occidente (e l’italia) cioè La Crisi Demografica.</p>
+<p>Il primo è stato <a href="https://www.youtube.com/watch?v=VABFnRfcqs0">Perché in Italia non si fanno più figli</a> e il secondo è stato <a href="https://www.youtube.com/watch?v=mPYxdPoklN8&amp;list=PLMUFoxcoztlu1YWe84wC-LPTl9pBgeQ3W">Mondo Senza Figli, Mondo Senza Futuro: stiamo scomparendo?</a></p>
+<p>Che i nati siano in calo costante nella maggior parte di quello che noi chiamiamo occidente, ormai nel 2026 è ormai noto a tutti. Certo, contestiamo le cause, e mi sembra che la maggioranza ignori gli effetti e cosa potrebbe succedere nel futuro, ma siamo tutti d’accordo sui fatti che noi, gli occidentali, stiamo scomparendo. I dati parlano per da sé - il tasso di fecondità, cioè il numero di figli per donna, è crollato dagli oltre due figli per donna dagli anni 60 a valori ben sotto la soglia di rimpiazzo generazionale che è circa 2,1 per donna.</p>
+<p>Ecco una tabella con i dati più recenti di alcuni paesi europei:</p>
+<p><strong>Paese</strong></p>
+<p><strong>TFR</strong></p>
+<p>Francia</p>
+<p>~1,80</p>
+<p>Irlanda</p>
+<p>~1,70</p>
+<p>Germania</p>
+<p>~1,50</p>
+<p>Svezia</p>
+<p>~1,55</p>
+<p>Polonia</p>
+<p>~1,30</p>
+<p>Italia</p>
+<p>~1,24</p>
+<p>Spagna</p>
+<p>~1,19*</p>
+<p>* il tasso più basso d’Europa</p>
+<p>Questi dati sono recenti e quindi riflettono anche quelli degli immigrati dalle altre aree del mondo - la realtà è che il tasso degli europei autoctoni è molto più basso di quanto puoi leggere sopra.</p>
+<p>Sia nei video che in altri posti online, tutti propongono le loro tesi per quanto riguarda il perché, incluso:</p>
+<ul>
+<li>Le cause economiche
+<ul>
+<li>Penalizzazione professionale femminile</li>
+<li>Un modello lavorativo totalizzante</li>
+<li>La mancanza di congedi paritari</li>
+</ul>
+</li>
+<li>Le cause culturali e sociali
+<ul>
+<li>I valori post-materialisti cioè quando una società raggiunge un certo livello di benessere - come è successo nella maggior parte dell’occidente - le priorità si spostano. Quando una persona non deve più pensare a come riempire il frigo o sopravvivere all’inverno, ha il tempo di riflettere su chi è e come vuol vivere. La realizzazione personale. Un focus sulla libertà e autonomia, e la qualità della vita individuale.</li>
+<li>La “Parenting Mania”
+<ul>
+<li>Una pressione sociale per il “genitore perfetto”</li>
+<li>L’ansia da prestazione educativa</li>
+</ul>
+</li>
+<li>La trasformazione relazionale
+<ul>
+<li>La fragilità dei legami di coppia</li>
+<li>Aumento famiglie unipersonali</li>
+<li>Secolarizzazione e fine obblighi religiosi</li>
+</ul>
+</li>
+</ul>
+</li>
+<li>Continuano così.</li>
+</ul>
+<p>Quando si tratta di soluzioni, le teorie sono, come sempre, a spendere più denaro pubblico, o in base della teoria progressiva in cui dicono “nonostante il fatto che sia adesso ovvio che le nostre soluzioni esistenti non hanno funzionato per niente, che la salute della nostra società non fa che peggiorare, se facessimo questi altri cambiamenti piccoli, andrebbe tutto perfetto”. I pensieri utopistici, e per qualche motivo, citano sempre i sistemi dei paesi del nord europeo come se stiano funzionando bene.</p>
+<p>Guardiamo:</p>
+<p><strong>Paese</strong></p>
+<p><strong>TFR</strong></p>
+<p>Finlandia</p>
+<p>~1,25</p>
+<p>Norvegia</p>
+<p>~1,41</p>
+<p>Svezia</p>
+<p>~1,45</p>
+<p>Danimarca</p>
+<p>~1,55</p>
+<p>Islanda</p>
+<p>~1,59</p>
+<p>Tutti sotto la soglia del livello di sostituzione, si chiama “il paradosso nordico”. E perché qualcuno citerebbe questi sistemi, anche se sa bene che non funziona? Ti chiedi perché.</p>
+<p>Dunque è ovvio che il problema non è solo economico. È anche ovvio che le “soluzioni” che molte persone propongono non funzioneranno, ma ci potrebbero costare più denaro in un tempo in cui la persona media ha sempre meno da dare.</p>
+<p>Dato questo, le domande diventano</p>
+<ul>
+<li>Perché non vediamo tutti politici, divulgatori, scienziati a parlare di questo problema? Perché le istituzioni non stanno affrontando questo problema in modo serio?</li>
+<li>Invece, cosa stanno facendo in realtà?</li>
+</ul>
+<p>La risposta alla prima domanda potrebbe essere sia lunga che complicata. La risposta alla seconda è qualcosa che ormai tutti noi sappiamo bene, cioè, l’immigrazione di massa.</p>
+<h4 id="la-mia-opinione-personale" tabindex="-1">La Mia Opinione Personale</h4>
+<p>A questo punto devo divulgare che non abbiamo figli, e non abbiamo in programma di averne. La ragione è complicata ma in breve la mia opinione personale è che stiamo perdendo la nostra umanità velocemente e presto non saremo altro che consumatori, completamente senza privacy, senza le nostre identità, in un modo in cui avremo un abbonamento per tutto, ma non possediamo nulla, ed in un mondo in cui le persone trascorrono tutto il loro tempo libero con il loro naso incollato al cellulare.</p>
+<p>In qualche modo è già così - al momento la maggior parte delle persone che “possiedono” una macchina in realtà mantengono un prestito, l’età in cui la maggioranza compra la loro prima casa diventa sempre più alta anno dopo anno cioè la maggior parte affitta le proprie case, o in realtà i loro appartamenti. Non hanno libri, o musica, invece li affittano da Spotify, Audible, Kindle ecc. I vestiti, beh, anche le grandi marche fanno i vestiti a un livello di qualità bassa, anche se costano molto, non durano a lungo.</p>
+<p>Quando si tratta della vita sociale, ciò che abbiamo vissuto è che per comprare una casa, una casa accessibile anche con un mutuo, i nostri amici hanno dovuto comprarla molto lontano dalla città. So bene che è così in Irlanda, in Italia, in Inghilterra, dappertutto nei paesi occidentali perché le case nelle aree desiderabili sono troppo costose.</p>
+<p>Paghi le tasse che solo aumentano anno dopo anno, mentre il costo della vita solo aumenta anno dopo anno, mentre la nostra privacy sta scomparendo… se pensi che i tuoi problemi saranno risolti con l’eredità, ripensaci, perché se non c’è già una tassa dell’eredità, ci sarà presto, te lo garantisco.</p>
+]]></description>
+            <link>https://bloccato.xyz/posts/l-inverno-demografico-nell-occidente/</link>
+            <guid isPermaLink="true">https://bloccato.xyz/posts/l-inverno-demografico-nell-occidente/</guid>
+            <category><![CDATA[Generale]]></category>
+            <pubDate>Mon, 05 Jan 2026 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[I Turisti di Gennaio]]></title>
+            <description><![CDATA[<p>Come c’era da aspettarsi, oggi la palestra sembrava un circo, ma è sempre così a gennaio fino alla fine di febbraio. Le cose che si vede sono sempre esilaranti - i ragazzi che pensano di essere già enormi e si mettono in mostra, le ragazze che hanno appena iniziato ad allenarsi ma ancora hanno comprato i vestiti migliori che ci si possa permettere, come se facessero la differenza, i modi diversi, e sbagliati, in cui le persone usano l’attrezzatura, e così via.</p>
+<p>Detto questo, sono molto comprensivo perché anch’io sono stato così a un certo punto e la vera differenza sarà tra coloro che riusciranno a mantenere l’abitudine dopo aver capito che i risultati ci vuole più tempo di quanto si pensi, e coloro che diventeranno frustrati e molleranno.</p>
+<p>È successo così l’anno scorso - sono comparsi molti nuovi membri a gennaio, le solite persone anche hanno continuato a allenarsi, la palestra era affollata, ma poi, piano piano quelli che erano nuovi sono scomparsi ed a marzo è stato solo quelli di noi che ci allenavamo già da prima.</p>
+<p>Come ho scritto in un altro post, è molto difficile acquisire nuove abitudini.</p>
+<p>Auguro loro il meglio.</p>
+<h4 id="per-la-tema-del-giorno---venerd%C3%AC-di-lingua" tabindex="-1">Per la tema del Giorno - Venerdì di Lingua</h4>
+<h5 id="1.-i-verbi-dell%E2%80%99azione" tabindex="-1">1. I Verbi dell’Azione</h5>
+<ul>
+<li><strong>Allenarsi:</strong> Il termine standard (To work out).</li>
+<li><strong>Sollevare (pesi):</strong> To lift (weights).</li>
+<li><strong>Eseguire:</strong> Molto usato per parlare della tecnica. <em>“Eseguire lo squat con la forma corretta.”</em></li>
+<li><strong>Spingere / Tirare:</strong> Essenziali per i programmi “Push/Pull”.</li>
+<li><strong>Cedersi / Arrivare al cedimento:</strong> Arrivare al punto in cui il muscolo non ce la fa più (To hit muscular failure).</li>
+<li><strong>Sforzarsi:</strong> To exert oneself / To strain.</li>
+<li><strong>Riscaldarsi / Defaticare:</strong> To warm up / To cool down.</li>
+</ul>
+<h5 id="2.-struttura-dell%E2%80%99allenamento" tabindex="-1">2. Struttura dell’Allenamento</h5>
+<ul>
+<li><strong>La serie (o il set):</strong> <em>“Ho fatto 4 serie da 10 ripetizioni.”</em></li>
+<li><strong>Le ripetizioni (spesso abbreviato in “rep”):</strong> Reps.</li>
+<li><strong>Il recupero:</strong> Il tempo di riposo tra una serie e l’altra.</li>
+<li><strong>Il carico:</strong> Il peso che stai sollevando. <em>“Oggi ho aumentato il carico sulla panca.”</em></li>
+<li><strong>Volume / Intensità:</strong> Termini tecnici che usi sicuramente nel tuo programma.</li>
+<li><strong>Il massimale (1RM):</strong> One-rep max.</li>
+</ul>
+<h5 id="3.-attrezzatura-specifica" tabindex="-1">3. Attrezzatura Specifica</h5>
+<ul>
+<li><strong>Il bilanciere:</strong> Barbell.</li>
+<li><strong>I manubri:</strong> Dumbbells.</li>
+<li><strong>La panca (piana/inclinata):</strong> The bench.</li>
+<li><strong>La ghisa:</strong> Cast iron (gergo per indicare i dischi dei pesi). <em>“Oggi ho spostato un bel po’ di ghisa.”</em></li>
+<li><strong>I cavi:</strong> Cables.</li>
+<li><strong>La sbarra (per le trazioni):</strong> Pull-up bar.</li>
+</ul>
+<h5 id="4.-composizione-corporea-e-dieta" tabindex="-1">4. Composizione Corporea e Dieta</h5>
+<ul>
+<li><strong>Massa grassa / Massa magra:</strong> Body fat / Lean mass.</li>
+<li><strong>Fabbisogno calorico:</strong> Caloric requirement.</li>
+<li><strong>Sgarrare:</strong> Verbo fondamentale! Significa “uscire dalla dieta” (To have a cheat meal/day).</li>
+<li><strong>Definizione (il “cut”):</strong> <em>“Sono in fase di definizione.”</em></li>
+<li><strong>Ipertrofia:</strong> Hypertrophy.</li>
+<li><strong>I dolori post-allenamento:</strong> Quelli che in inglese chiami DOMS. In italiano diciamo spesso: <em>“Ho i muscoli indolenziti”</em> o <em>“Sento l’acido lattico”</em> (anche se tecnicamente non è acido lattico, si dice così).</li>
+</ul>
+]]></description>
+            <link>https://bloccato.xyz/posts/i-turisti-di-gennaio/</link>
+            <guid isPermaLink="true">https://bloccato.xyz/posts/i-turisti-di-gennaio/</guid>
+            <category><![CDATA[Generale]]></category>
+            <pubDate>Sat, 03 Jan 2026 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Salve 2026]]></title>
+            <description><![CDATA[<p>Buon Anno! Siamo usciti fuori ieri sera, in un locale “irlandese”, per festeggiare il Capodanno e, come c’era da aspettarsi, sto soffrendo oggi. La serata è stata piuttosto divertente - c’è stata una band per tutta la notte, abbiamo conosciuto alcune persone interessanti, bevuto molto - anzi troppo - prosecco e quindi non me ne pento ma oggi… che palle. Ho passato tutta la giornata sul divano senza fare nulla, se non fare scrolling sul telefono. Molto improduttivo. Odio sempre il dopo sbronza.</p>
+<p>Tuttavia, grazie a Dio, le feste sono finite e possiamo tornare alla vita normale.</p>
+<p>Purtroppo durante la giornata ho letto molti articoli sui disastri avvenuti ieri sera in Europa. Una chiesa storica ad Amsterdam è stata data alla fiamme durante le festività. Un’altra ancora. In Svizzera, a Crans-Montana, c’è stato un disastro in cui 47 ragazzi sono stati uccisi, un altro 112 feriti, a causa di un incendio scoppiato quando una festa è andata fuori controllo. In Germania, il solito caos nelle grandi città, e lo stesso in Francia.</p>
+<p>Notizie orribili, soprattutto per i ragazzi e le loro famiglie. Conosco bene la decadenza che attraversano le nostre grandi città questi giorni, e quindi non sono molto sorpreso che ci siano stati degli incidenti laggiù, ma leggere di giovani che semplicemente festeggiavano la fine dell’anno e hanno perso le loro vite è davvero una tragedia.</p>
+]]></description>
+            <link>https://bloccato.xyz/posts/salve-2026/</link>
+            <guid isPermaLink="true">https://bloccato.xyz/posts/salve-2026/</guid>
+            <category><![CDATA[Generale]]></category>
+            <pubDate>Fri, 02 Jan 2026 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Martedì il 30 Dicembre]]></title>
+            <description><![CDATA[<p>Oggi è stato un giorno proprio semplice - non ho fatto nulla di che. Ho dormito benissimo - e come ho spiegato in un altro post questo è qualcosa molto importante per me adesso e per l’anno nuovo perché credo che le mie cattive abitudini di sonno abbiano compromesso i miei obiettivi quest’anno - ma per il resto niente di straordinario.</p>
+<p>Dopodomani cercherò di seguire questo formato fisso per il blog, in modo da poter monitorare i miei progressi verso gli obiettivi che mi sono prefissato per il 2026, tranne quando sarò in vacanza:</p>
+<p>Lun: Lunedì Tecnico</p>
+<p>Mar: Martedì di Salute</p>
+<p>Mer: Mercoledì di Mercato</p>
+<p>Gio: Giovedì Sociale</p>
+<p>Ven: Venerdì di Lingua</p>
+<p>Sab/Dom: Riflessione</p>
+<p>Ho già il mio primo post di Riflessione in mente per domenica dopo aver visto <a href="https://www.youtube.com/watch?v=mPYxdPoklN8&amp;list=PLMUFoxcoztlu1YWe84wC-LPTl9pBgeQ3W">questo video</a> su Youtube oggi - è un tema molto importante e significativo e sarà qualcosa di molto impegnativo da scrivere.</p>
+<p>Alla prossima</p>
+]]></description>
+            <link>https://bloccato.xyz/posts/martedi-il-30-dicembre/</link>
+            <guid isPermaLink="true">https://bloccato.xyz/posts/martedi-il-30-dicembre/</guid>
+            <category><![CDATA[Generale]]></category>
+            <pubDate>Wed, 31 Dec 2025 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Arrivederci 2025]]></title>
+            <description><![CDATA[<p>L’ultimo giorno dell’anno. Sebbene sia entusiasta per il 2026, devo ammettere che lo affronto anche con un gran senso di ansia. Il ritmo del cambiamento alla fine del 2025 è come qualcosa che non abbiamo mai visto prima - la situazione politica sia a casa in Europa che nei rapporti tra gli Stati Uniti e il resto del mondo, la guerra in Ucraina che pare non avere fine mentre il costo aumenta mese dopo mese per tutti noi, il tasso di progresso nell’IA e la realtà che la persona media non si è ancora accorta di quanto sia diventata potente recentemente, e dell’effetto che avrà su tutte le nostre vite nel 2026, e così via.</p>
+<p>Il 2026 sarà un anno di cambiamento enormi, e nessuno sembra preparato. Anch’io, a dire la verità, nonostante stia cercando di prepararmi adeguatamente a tutte le possibilità che potrebbero verificarsi, sento che nonostante questo sforzo mi trovo costantemente indietro.</p>
+<p>Non so cosa accadrà nel 2026, ma sono sicuro che il mondo sarà molto diverso entro la fine dell’anno.</p>
+<p>Andiamo avanti.</p>
+]]></description>
+            <link>https://bloccato.xyz/posts/arrivederci-2025/</link>
+            <guid isPermaLink="true">https://bloccato.xyz/posts/arrivederci-2025/</guid>
+            <category><![CDATA[Generale]]></category>
+            <pubDate>Wed, 31 Dec 2025 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Lunedì Il 29 Dicembre]]></title>
+            <description><![CDATA[<p>Mi sono svegliato e alzato presto stamattina perché ho avuto una lezione di italiano alle 9, e volevo studiare e praticare un po’ prima dell’inizio. Credo che la classe sia andata bene, non ho faticato molto e ho imparato alcune cose nuove e utile come:</p>
+<ul>
+<li>Sfigato - non figo, triste, sfortunato</li>
+<li>Dicevo per dire - no lo intendevo in senso letterale, lo dicevo tanto per dire, ironico</li>
+<li>Meritare - nel senso come “valerne la pena”</li>
+<li>Come lo vedi? - ti va di? avresti voglia? ti andrebbe?</li>
+<li>Un marchingegno - un dispositivo, un aggeggio, uno schema
+<ul>
+<li>Cos’è questo marchingegno?</li>
+<li>Ha inventato un marchingegno burocratico</li>
+</ul>
+</li>
+<li>I brividi - la paura</li>
+<li>Esercenti - venditori</li>
+<li>Ben - addirittura</li>
+<li>Sviluppi - usato come evoluzioni</li>
+<li>Emorragia - la perdita</li>
+<li>Borbottano (borbottare) - si lamentano</li>
+<li>Prendere una bella sbronza - alzarsi il gomito, ubriacarsi</li>
+</ul>
+<p>Dopo la classe intendevo andare in palestra ma quando quel tempo è arrivato non me la sono sentita e quindi sono rimasto a casa per il resto della giornata. In genere preferisco andarci la mattina molto presto poiché è meno affollata, le macchine sono disponibili, riesco a allenarmi senza pause ecc.</p>
+<p>Poi ho letto - al momento sto leggendo “Dubliners” di James Joyce e in futuro potrei scriverne un riassunto qui - ho guardato molti video su Youtube che trattano l’economia del 2026, le opportunità di investimento, l’IA e naturalmente, l’italiano.</p>
+<p>Alcuni integratori che ho ordinato ieri sono arrivati oggi: ne prendo diversi ogni giorno, ma recentemente ho scoperto che dovrei assumere la vitamina K insieme alla vitamina D3, altrimenti con 5.000 UI al giorno potrebbero esserci dei problemi, e dunque l’ho comprata. Ho anche comprato le vitamine CoQ10, zinco e rame.</p>
+<p>Alla prossima</p>
+]]></description>
+            <link>https://bloccato.xyz/posts/lunedi-il-29-dicembre/</link>
+            <guid isPermaLink="true">https://bloccato.xyz/posts/lunedi-il-29-dicembre/</guid>
+            <category><![CDATA[Generale]]></category>
+            <pubDate>Tue, 30 Dec 2025 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[2025 - L'Anno in Revisione]]></title>
+            <description><![CDATA[<h2 id="2025---l%E2%80%99anno-in-revisione" tabindex="-1"><strong>2025 - L’anno in revisione</strong></h2>
+<p>Il 2026 arriverà tra soli quattro giorni, e mi è sembrata una buona occasione per guardare indietro all’anno appena trascorso, riflettere sui momenti più significativi — e su quelli meno felici — e provare a fare un bilancio prima di voltare pagina.</p>
+<p>L’anno è cominciato con un incidente. Una mattina, mentre andavo in palestra alle cinque, ho investito e ucciso un cervo. Era ancora buio ed è apparso dal nulla. Ho frenato, ma purtroppo era troppo tardi. La cosa peggiore è che non è morto subito: sono rimasto seduto accanto a lui per quasi un’ora, aspettando che finisse. Una morte terribile.</p>
+<p>La macchina ha riportato qualche danno, che ho dovuto riparare, ma quello era il meno.</p>
+<hr>
+<h3 id="fitness" tabindex="-1"><strong>Fitness</strong></h3>
+<p>Per il resto della primavera mi sono concentrato quasi esclusivamente sulla palestra e sull’italiano. Durante l’inverno avevo fatto un bulk e avevo raggiunto i 100 chili: mi sentivo molto bene. In primavera ho iniziato un cut, con l’obiettivo di scendere dal 19% al 12% di grasso corporeo. All’inizio andava tutto bene, ma con l’arrivo dell’estate mi sono fermato intorno al 16%.</p>
+<p>Ho perso peso e mantenuto la forza, ma non sono riuscito ad arrivare dove volevo. Per il resto dell’estate ho semplicemente mantenuto sia il peso sia la forza, fino alla partenza per Roma, a fine agosto, per quei due mesi.</p>
+<p>A Roma avevo intenzione di continuare ad allenarmi. Mi ero anche iscritto a una palestra, FitActive Cipro, ma fin dall’inizio ho trovato l’esperienza - e il rapporto con l’azienda e il personale - piuttosto spiacevole.</p>
+<p>Inoltre, tra il corso di italiano al mattino alla Scuola Leonardo da Vinci e il lavoro, che mi occupava dal pomeriggio fino a tarda notte, ho capito molto in fretta che, realisticamente, non avrei avuto tempo per la palestra. È stato deludente. Allenarsi è un’abitudine difficile da costruire, e sapevo che dopo due mesi di stop sarebbe stato complicato ricominciare. E infatti lo è stato.</p>
+<p>Dopo il rientro a novembre ho faticato un po’, ma ora ho ripreso ad allenarmi con regolarità.</p>
+<hr>
+<h3 id="italiano" tabindex="-1"><strong>Italiano</strong></h3>
+<p>Ho iniziato l’anno a un livello B1, sentendomi però un po’ bloccato, come su un altopiano. La fase “facile” era finita: il mondo della lingua si era aperto davanti a me, ma non sapevo bene in che direzione andare.</p>
+<p>Durante la primavera ci ho lavorato molto. Ho scritto alcuni post qui sul blog, guardato molti film e serie italiane, e seguito regolarmente le lezioni con entrambi gli insegnanti, quattro volte a settimana.</p>
+<p>A luglio siamo tornati in Italia per un matrimonio, ed è stata una buona occasione per mettere in pratica la lingua, soprattutto a Sora. I due mesi a Roma, ovviamente, sono stati un periodo di studio intenso, ma la città in sé si è rivelata un’esperienza curiosa dal punto di vista linguistico, per due motivi.</p>
+<p>Il primo è che mi è sembrato che i romani amino parlare inglese. Forse non è davvero così, e semplicemente lo usano perché è più comodo con gli stranieri, ma ci sono state diverse occasioni in cui parlavo in italiano e ricevevo comunque una risposta in inglese. La proprietaria dell’appartamento, per esempio, sapeva benissimo che parlavo italiano: tutti i nostri messaggi erano stati in italiano. Eppure, quando ci siamo incontrati di persona, mi ha parlato solo in inglese.</p>
+<p>La cosa curiosa è che, poco dopo, siamo stati in Irlanda per quel matrimonio, e lì ho conosciuto tre italiane con cui abbiamo passato diverse serate parlando solo italiano.</p>
+<p>Per quanto riguarda il corso, il problema principale è stato il sistema di valutazione. Prima dell’inizio c’è solo un test molto semplice, senza audio, senza conversazione, solo un questionario online, che serve a inserire gli studenti nei livelli. Dopo averlo fatto, mi avevano proposto addirittura una classe C2 — una barzelletta. Ho rifiutato e ho chiesto di poter frequentare il livello B2.</p>
+<p>Una volta iniziato il corso, però, mi sono reso conto molto rapidamente che il livello generale non era davvero B2, né dal punto di vista grammaticale né da quello della conversazione.</p>
+<p>Detto questo, ho conosciuto persone interessanti. Pranzavamo insieme quasi ogni giorno, uscivamo qualche sera, e quindi, anche se dal punto di vista didattico non è stato particolarmente efficace, me lo sono comunque goduto.</p>
+<p>Al rientro, a novembre, ho ripreso a studiare. Tuttavia, a causa di diversi problemi tra novembre e dicembre, lo studio non è stato rigoroso come nei mesi precedenti. Nonostante questo, l’italiano continua a piacermi molto, e ho progetti ambiziosi per il prossimo anno.</p>
+<hr>
+<h3 id="lavoro" tabindex="-1"><strong>Lavoro</strong></h3>
+<p>È stato un anno difficile sul lavoro. Sono entrato in questa azienda solo a novembre 2024, quindi l’inizio del 2025 è stato soprattutto un periodo di apprendimento. Quando sono arrivato, molti dirigenti storici se n’erano già andati, così come diversi membri dei team di cui sono diventato responsabile.</p>
+<p>Avevo solo due manager sotto di me e, per il resto, la situazione era caotica, senza un piano chiaro. Durante l’estate abbiamo affrontato numerosi incidenti, con applicazioni non disponibili e un livello di stress molto alto. Sembrava un continuo acchiappa la talpa.</p>
+<p>Poco alla volta, però, la situazione è cambiata. Ho intervistato e assunto diverse persone valide. Ho sostituito i due manager precedenti con tre nuovi manager. Abbiamo stabilizzato i sistemi e definito una strategia, che ho presentato ai dirigenti a dicembre.</p>
+<p>Quest’anno mi ha messo alla prova, ma mi ha anche fatto crescere molto. Sono orgoglioso di quello che ho costruito e dello stato attuale della mia organizzazione, e guardo al nuovo anno con entusiasmo.</p>
+<hr>
+<h2 id="guardando-avanti" tabindex="-1"><strong>Guardando Avanti</strong></h2>
+<p>I miei obiettivi per il 2026 sono piuttosto semplici:</p>
+<h3 id="fitness-1" tabindex="-1"><strong>Fitness</strong></h3>
+<p>Raggiungere almeno il 15% grasso corporeo, idealmente il 12%, entro l’estate. Per farlo, dovrò concentrarmi sulla dieta, allenarmi 5-6 volte alla settimana, e soprattutto garantire che dormirò bene e non meno di 7 ore per notte. Misurerò con la mia bilancia, l’app Jefit e il mio Apple Watch.</p>
+<h3 id="italiano-1" tabindex="-1"><strong>Italiano</strong></h3>
+<p>Vorrei superare gli esami CILS B2 in primavera, e forse C1 in inverno. Credo che B2 sarà raggiungibile, e C1 sarà dopo altri due mesi in Italia e quindi a quel punto dovrebbe essere possibile. Nonostante amo Roma, la prossima volta andremo da qualche parte in cui sarà possibile immergerci di più.</p>
+<h3 id="lavoro-1" tabindex="-1"><strong>Lavoro</strong></h3>
+<p>Sto già usando e imparando l’IA ogni giorno, sia al lavoro che nella vita personale, ma il 2026 sarà l’anno più importante di sviluppare queste competenze, e farlo rapidamente. Molti non si rendono conto di quanto velocemente stiano cambiando le cose, e credo fortemente che se vuoi avere un lavoro nel 2027, devi padroneggiarla e mantenere le sue competenze come le cose continuano a cambiare durante l’anno, o infatti gli anni.</p>
+<p>Per misurarlo, userò i corsi su <a href="http://Deeplearning.ai">Deeplearning.ai</a> (completare almeno 6 durante l’anno), cercare di automatizzare parecchi flussi di lavoro, spingere i miei sviluppatori di software ad abbracciarlo, e forse svilupperò qualcosa di mio utilizzando queste competenze.</p>
+<hr>
+<p><strong>Andiamo avanti.</strong></p>
+]]></description>
+            <link>https://bloccato.xyz/posts/2025-l-anno-in-revisione/</link>
+            <guid isPermaLink="true">https://bloccato.xyz/posts/2025-l-anno-in-revisione/</guid>
+            <category><![CDATA[Generale]]></category>
+            <pubDate>Mon, 29 Dec 2025 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Roma Mi Aspetta]]></title>
+            <description><![CDATA[<p>Allora, stasera scrivo solo un aggiornamento al mio posto intitolato “Dove andrò questa volta?”.</p>
+<p>Ho fatto la mia scelta e ho già prenotato un appartamento lì: a Roma. Ci starò dalla fine di agosto all’inizio di novembre, cioè due mesi completi. Non vedo l’ora, sono eccitato, ma allo stesso tempo un po’ nervoso, o forse ho un po’ d’ansia, perché sarò laggiù da solo per un mese durante quel periodo.</p>
+<p>Dovrò lavorare mentre sarò lì, almeno per la maggior parte del tempo, ed anche dovrò lavorare allineato all’orario di Toronto perché tutti i miei team lavoreranno durante queste ore e il mio ruolo mi richiede di farlo. È davvero un compromesso equo, perché avrò l’opportunità di vivere e lavorare a Roma per un periodo significativo e oggi non ci sono molte persone che hanno una tale opportunità.</p>
+<p>Ho un po’ d’ansia solo perché so che dovrò trovare o incontrare altre persone per potermi davvero divertire, e so bene che quando sei da solo all’estero, in una città “nuova”, che è un po’ più difficile. Ho cercato online gruppi di altri adulti simili a me, gruppi di attività, gruppi di sport e così via ma mi sembra che, per qualche ragione, tutto accada durante la settimana lavorativa, cioè da martedì a giovedì.</p>
+<p>Sto anche pensando se volessi tornare a scuola durante quel viaggio. Se ci tornassi e seguissi un corso per alcune settimane, potrei conoscere un gruppo abbastanza facilmente, come è successo l’ultima volta. Ma allo stesso tempo perderei tutte le mattine e poi dovrei lavorare subito dopo, fino a tardi. Se non lo farò, quindi dovrò essere molto, molto intenzionale nel modo in cui cercherò di conoscere altre persone.</p>
+<p>Per non parlare del fatto che vorrei continuare ad andare in palestra ogni giorno durante questo viaggio, per mantenermi in forma e rimanere in buona salute ecc. Sicuramente è più facile trovare una palestra a Roma che trovare gruppi o attività che funzioneranno bene con i miei orari di lavoro. Potrei conoscere altre in palestra? Magari!</p>
+<p>Beh, ovviamente devo ancora pianificare molto, ma meno male c’è molto tempo da qui ad allora.</p>
+<p>Alla prossima.</p>
+]]></description>
+            <link>https://bloccato.xyz/posts/roma-mi-aspetta/</link>
+            <guid isPermaLink="true">https://bloccato.xyz/posts/roma-mi-aspetta/</guid>
+            <category><![CDATA[Generale]]></category>
+            <pubDate>Thu, 26 Jun 2025 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Cosa Faccio]]></title>
+            <description><![CDATA[<p>Ho lavorato in tecnologia per circa 13 anni, ma sono stato appassionato di tecnologia da tutta la vita, a partire da quando ero molto giovane. Oggi, lavoro per un’azienda di medie dimensioni che offre sia piattaforme del software come servizio (Software-as-a-Service/SaaS) per i rivenditori, gli alberghi o i hotel, i ristoranti, i bar e altro sia l’hardware che necessario per gestire le loro attività, come i sistemi per il punto vendita che conoscete bene come lo shopping, le cene fuori casa e i soggiorni in hotel.</p>
+<p>Sono un Direttore dello Sviluppo Software in questa azienda, responsabile di un’area dell’azienda che serve migliaia di aziende e milioni di clienti ogni giorno. Il Direttore dello Sviluppo Software è una figura dirigenziale senior responsabile della supervisione di tutti gli aspetti legati allo sviluppo software all’interno di un’organizzazione, che comprende la guida e la gestione di team di sviluppatori del software, l’allineamento dei progetti con gli obiettivi aziendali e l’attuazione di una strategia tecnica a lungo termine per le aree che ne sono responsabile.</p>
+<p>Alcune area del mio ruolo giorno-a-giorno includono:</p>
+<ul>
+<li>
+<p>Pianificazione strategica - Sviluppare e implementare strategie tecnologiche a lungo termine coerenti con gli obiettivi della nostra azienda</p>
+</li>
+<li>
+<p>Leadership dei team - Gestire e affiancare più team di sviluppatori del software, promuovendo una cultura di innovazione e miglioramento continuo</p>
+</li>
+<li>
+<p>Supervisione dei progetti - Supervisione la progettazione, lo sviluppo e la consegna di prodotti software di alta qualità</p>
+</li>
+<li>
+<p>Direzione tecnica - Definire l’indirizzo tecnico dello sviluppo software, valutare e adottare nuove tecnologie e assicurare l’adesione alle best practice</p>
+</li>
+<li>
+<p>Collaborazione - Lavorare a stretto contatto con il “product management”, il design e altri stakeholder per garantire il successo dei rilasci di prodotto e l’efficienza dei flussi di lavoro</p>
+</li>
+<li>
+<p>Gestione delle Performance - Stabilire obiettivi di performance per i team e i singoli membri, fornire feedback per il miglioramento continuo</p>
+</li>
+<li>
+<p>Gestione dei Rischi - Individuare e mitigare i rischi legati allo sviluppo software come il debito tecnico, le minacce alla sicurezza e le questioni di conformità</p>
+</li>
+<li>
+<p>Comunicazione con gli stakeholder - Comunicare in modo efficace con i diversi stakeholder, inclusi dirigenti, altri team e i nostri clienti</p>
+</li>
+</ul>
+<p>Al momento sono responsabile per quattro team di sviluppatori software attraverso web, i sistemi backend, gli applicazioni mobili ed i dati.</p>
+]]></description>
+            <link>https://bloccato.xyz/posts/cosa-faccio/</link>
+            <guid isPermaLink="true">https://bloccato.xyz/posts/cosa-faccio/</guid>
+            <category><![CDATA[Generale]]></category>
+            <pubDate>Sat, 21 Jun 2025 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Bloccato? Frustrato! Bene.]]></title>
+            <description><![CDATA[<p>A volte, in momenti come questi, devo ricordarmi che il progresso non è lineare.</p>
+<p>Questa settimana, dopo aver finito il mio primo libro italiano, come al solito ho fatto quattro lezioni d’italiano – due di queste sono formali, strutturate mentre le altre due sono di conversazione – e mi sono sentito come se avessi faticato in tutte. Fuori dalle lezioni, ho rivisto alcuni temi come il discorso indiretto e i periodi ipotetici, che ho studiato e ci ho passato molto tempo recentemente, ed è stato come cercare di leggere i geroglifici. Ho finito la settimana sentendomi molto frustrato.</p>
+<p>Tuttavia, imparare qualcosa di nuovo è sempre così. Devi amare e fidarti del processo perché è il solo modo in cui progredirai – e amo il processo.</p>
+<p>È come la palestra. A volte, dopo aver fatto una sessione in cui le cose non sono andate molto bene, oppure in cui mi sono sentito debole, o stanco, mi ritrovo a chiedermi perché? Perché sto facendo questo a me stesso quando potrei essere a letto, oppure festeggiando.</p>
+<p>Ma, piano piano, i risultati arrivano e tutto il lavoro svolto vale il dolore che ha comportato.</p>
+<p>In quei momenti tengo bene a mente il grafico sotto.</p>
+<p><img src="https://bloccato.xyz/wp-content/uploads/2025/05/GrrhrmkWAAAdrJh-888x1024.jpeg" alt=""></p>
+]]></description>
+            <link>https://bloccato.xyz/posts/bloccato-frustrato-bene/</link>
+            <guid isPermaLink="true">https://bloccato.xyz/posts/bloccato-frustrato-bene/</guid>
+            <category><![CDATA[Generale]]></category>
+            <pubDate>Sat, 31 May 2025 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Ce L'Ho Fatta]]></title>
+            <description><![CDATA[<p>Ce l’ho fatta. Ho completato “Io Non Ho Paura” di Niccolò Ammaniti, dopo appena due settimane da quando l’ho iniziato. Mi sento molto orgoglioso di me stesso, come se avessi vinto una gara. A un anno da quando ho cominciato a imparare l’italiano, sono riuscito a leggere un libro in italiano, scritto per lettori italiani. Anche quando ero piccolo e imparavo il francese, prima e poi quando ero a scuola, non potevo mai fare una cosa come questa.</p>
+<p>È stata una sfida? Certamente. Ho lottato molto? In realtà no. Avendo già imparato e praticato il passato prossimo, l’imperfetto, il congiuntivo, i pronomi combinati e così via, ho scoperto di capire la struttura delle frasi quasi perfettamente – soprattutto nei dialoghi. La vera difficoltà è stata il numero enorme di verbi nuovi, insieme a un sacco di vocabolario sconosciuto. Ovviamente, no? Quindi li ho dovuti tradurre, e prendere appunti, mentre leggevo. Eppure ne è valsa la pena, senza dubbio.</p>
+<p>Per quanto riguarda il libro, innanzitutto, me lo sono goduto molto. Gli italiani lo chiamano un romanzo, ma non è una storia romantica come si può immaginare da questo titolo. In quel caso lo si parlerebbe “un romanzo rosa”, mentre qui si tratta di un “romanzo di formazione”.</p>
+<p>In questa storia conosciamo Michele Amitrano, il protagonista, e la sua famiglia – Anna, sua madre che fa la casalinga, Maria, la sorella minore e Pino, suo padre di cui ci viene detto che lavora nel Nord ma non viene chiarito cosa proprio lui fa, solo che lui va e viene, ogni tanto portando dei regali a casa con lui. Questa famiglia vive in un paesino, forse non è un paesino ma un borgo di campagna vicino a Lucignano chiamato Acqua Traverse. Non è né ricco né povero.</p>
+<p>All’inizio della storia ci viene presentato il gruppo di amici di Michele (e di sua sorella) - Il Teschio, Salvatore, Remo e Barbara. Sembra che la storia si svolga durante l’estate quando ai bambini non tocca andare a scuola, a un tempo in cui Acqua Traverse è descritto come caldissimo in cui le giornate sono bollenti, e nonostante le finestre spalancate, si passano le notti a sudare nel letto, incapaci di dormire.</p>
+<p>Il gruppo di ragazzi trascorre le sue lunghe giornate estive sfidandosi a gare, partite di calcio e a “un due tre stelle”. Girano in bicicletta per la campagna, tra le colline, a Lucignano per comprare il gelato e altro ancora. Loro hanno e loro si godono la libertà che quelli di noi che sono cresciuti prima dell’Internet, dei telefoni, del media sociale si sono goduti. Durante queste sfide, o queste gare, c’è sempre una penitenza che chi arriva ultimo deve pagare. Alcune sono talmente brutte che faccio fatica persino a descriverle.</p>
+<p>Durante una di queste sfide, il gruppo si trova in una vecchia villa situata sulle colline. Michele non è arrivato l’ultimo nella gara precedente ma insiste per fare la penitenza al posto di Barbara, perché gli dispiace per lei. Il Teschio gli dice che per questa penitenza deve salire al piano superiore e attraversare un ramo che collega due stanze. Michele si arrampica sulla casa rotta, attraversa il ramo e poi salta giù, dove trova una copertura sopra un buco scuro. All’improvviso, vede una gamba bianca spuntare da sotto un telone e crede di aver trovato un cadavere.</p>
+<p>Scappa via per tornare dal gruppo prima che possano scoprire il suo nuovo segreto. Il giorno dopo, lui torna alla villa da solo per verificare se si tratta davvero di un cadavere, ma invece riceve un grande sorpresa quando trova che non è un corpo, ma è un ragazzo vivo, della stessa età di Michele, che si chiama Filippo. Filippo è stato rinchiuso nel buco e non può partire uscire perché ha una catena con un lucchetto intorno alla sua caviglia. È chiaro che qualcuno l’ha messo lassù. È anche evidente che qualcuno torna lì regolarmente perché ci sono i piatti vuoti, bicchieri, le cenere dei fuochi e così via vicino al buco. Vede anche una ciotola con lo stesso design come una che sua madre ha comprato e che hanno a casa.</p>
+<p>Poco dopo, un amico di Pino, di nome Sergio, arriva per stare da loro, ma il padre non gli spiega mai il motivo della sua visita. Presto, durante la notte, Michele si sveglia e scopre un gruppo di adulti – i suoi genitori, Sergio e alcuni vicini – che stanno litigando in cucina, ma si smettono all’improvviso per guardare la TV. Sono le notizie: si parla di un bambino di nome Filippo che è stato rapito dalla sua casa due mesi prima. La madre di Filippo appare in TV e supplica i rapitori di liberare suo figlio immediatamente.</p>
+<p>A quest’ora MIchele si rende conto che è stato suo padre a rapire Filippo. Qualche giorno dopo, Michele va a casa del suo amico, Salvatore, per consegnare una torta che sua madre ha preparato per la famiglia di Salvatore. Michele trova Salvatore nella sua camera e Salvatore gli mostra otto nuove squadre di Subbuteo che suo padre gli ha comprato mentre era in città per lavoro.</p>
+<p>Michele prova gelosia. Gli piace moltissimo il gioco di Subbuteo, ma lui non ha neanche una squadra di calciatori, mentre ora Salvatore ne ha dodici. Michele chiede a Salvatore se può regalargliene una, ma Salvatore gli risponde “No, non posso farlo perché mio padre si arrabbierebbe”. Michele riflette un attimo, poi decide di barattare il suo segreto – il segreto del ragazzo nel buco – in cambio di una squadra di Subbuteo. Michele rimpianga questa decisione quasi subito ma prosegue comunque.</p>
+<p>Michele torna alla vecchia villa per rivedere Filippo, ma un altro ragazzo, Felice, che era nella cucina quella notte in cui gli adulti litigavano tra loro, acchiappa Michele nel buco con Filippo perché Salvatore gli ha rivelato il segreto di Michele in cambio di una lezione di guida. Felice porta Michele a casa e dice ai genitori di Michele che è successo alla villa. Sua madre vede che Felice lo ha picchiato, si infuria, e c’è una grande lotta tra Felice e Anna nel soggiorno. Poco dopo Pino, il padre di Michele, arriva a casa insieme a Sergio, vede la scena e tenta di uccidere Felice.</p>
+<p>Quella notte, Pino parla con Michele e lo fa giurare che lui non tornerà mai alla villa da Filippo sennò gli altri lo uccideranno, e sarebbe la colpa di Michele. Per diversi giorni, Michele si preoccupa per Filippo, ma non vuole tornare alla villa nel caso in cui loro lo acchiappano di nuovo e questa volta potrebbero uccidere davvero Filippo.</p>
+<p>Un pomeriggio, i ragazzi stanno giocando per le strade di Acqua Traverse, come al solito, quando uno del gruppo propone che loro devono tornare alla vecchia villa per vedere se c’è cos’altro. Michele non vuole andare, il giuramento che ha fatto a suo padre solo pochi giorni prima viene in mente ma alla fine, però, decide di andare con il gruppo. Quando arrivano alla villa, Michele scopre che Filippo non c’è più. Salvatore gli dice che gli adulti lo hanno spostato di recente, perchè la villa non era più sicura, e ora si trova nel capannone di un contadino chiamato Melichetti, in fondo alla collina.</p>
+<p>All’improvviso, i ragazzi sentono un suono tonante e vedono due elicotteri sorvolare la villa, volare sopra il borgo e poi scomparire all’orizzonte. Il gruppo corre subito a casa. Quella notte, Michele sente di nuovo il gruppo degli adulti – i genitori, i vicini, Felice e gli altri – stanno litigando in cucina. Diventa chiaro che credono che la polizia sia vicina a scoprire tutto, e quindi loro decidono che Filippo deve morire, ma non sanno chi lo farebbe.</p>
+<p>Ascoltando questo, Michele decide che lui deve salvare Filippo, o almeno tentare, e scappa fuori la finestra, prende la bicicletta e pedala in fretta verso la fattoria di Melichetti per trovarlo.</p>
+<p>Cerca e cerca nella fattoria ma non riesce a trovare il ragazzo. Alla fine lo scopre in un altro buco e riesce a liberarlo, riesce ad aiutarlo a fuggire ma purtroppo non riesce a fuggire lui stesso. Appare suo padre – confuso, spaventato, con una pistola in mano – e spara a Michele.</p>
+<p>Il libro si conclude con Pino, Michele nelle sue braccia, supplicando aiuto mentre i poliziotti stanno arrivando.</p>
+<p>Come ho scritto sopra, me lo sono goduto molto. L’ho trovato accattivante e coinvolgente dalla prima all’ultima pagina. Se stai imparando l’italiano e stai cercando il tuo primo libro in italiano, te lo consiglio vivamente.</p>
+]]></description>
+            <link>https://bloccato.xyz/posts/ce-l-ho-fatta/</link>
+            <guid isPermaLink="true">https://bloccato.xyz/posts/ce-l-ho-fatta/</guid>
+            <category><![CDATA[Generale]]></category>
+            <pubDate>Wed, 28 May 2025 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[La Caccia]]></title>
+            <description><![CDATA[<p>Erano le cinque. La sveglia ha suonato. Fuori era ancora buio.</p>
+<p>Mi sono alzato, mi sono stirato. Mi sono stropicciato gli occhi.</p>
+<p>Mi sono vestito con la mia mimetica.</p>
+<p>Al piano di sopra ho incontrato mio cognato che era anche pronto per la giornata. Abbiamo ricontrollato il nostro pian, preso i nostri fucili da caccia e gli zaini, e siamo partiti.</p>
+<p>Andare a caccia è una nostra tradizione. Per i cacciatori, la primavera significa la stagione dei tacchini. Ogni primavera, da molti anni, portiamo avanti questa tradizione – e finora, con successo.</p>
+<p>Appena usciti, ho sentito l’aria fresca. Nonostante fosse primavera, faceva ancora freddino con un leggero brivido nell’aria. Era tranquillo. Gli uccelli dormivano ancora.</p>
+<p>Abbiamo attraversato il campo dell’erba corta, superato il fienile e siamo entrato il bosco verso il nord, facendo attenzione ai suoni che producevamo. Ci siamo fermati. Ho tirato fuori lo strumento chiamato il “Box Call” e ho imitato il verso dei tacchini. Abbiamo aspettato. Niente.</p>
+<p>A quell’ora della mattina, ci si aspetta una risposta se i tacchini sono nei paraggi. Ma niente di nuovo tranne il “caw” dei corvi. Abbiamo continuato.</p>
+<p>Non avendo trovato nulla, siamo tornati in un punto dove sapevamo che i tacchini dormivano di volta in volta sugli alberi accanto a un grande campo. È stata una grande scommessa, ma volevamo tentare qualcosa prima di spostarci alla prossima posizione.</p>
+<p>Ho messo fuori la mia esca, un finto tacchino, e ci siamo nascosti tra i cespugli. Ci siamo seduti lì e poi abbiamo aspettato. Ho provato a richiamarli. Ancora niente. Il sole stava sorgendo. A quel punto, se ci fossero stati dei tacchini sugli alberi, sarebbero già scesi sul campo e avrebbero iniziato a mangiare o cercare una compagna.</p>
+<p>Abbiamo deciso di spostarci al posto dopo. Siamo saliti in macchina e guidato alla fattoria privata dove abbiamo accesso. La fattoria ha sia boschi sia campi in cui crescono il grano e il mais. A quell’ora nella mattina sapevamo che se i tacchini c’erano, sarebbero stati soli nei campi. Di pomeriggio, se c’è il sole e fa caldo e hanno già mangiato e si sono accoppiati, di solito si spostano nei boschi per l’ombra dove è un po’ più freddo.</p>
+<p>Abbiamo camminato con attenzione in silenzio lungo il bordo dei campi. In una radura, abbiamo dato un’occhiata oltre il campo e boom - li abbiamo visti. Ce n’era un branco dall’altra parte del campo in un angolo. Diversi maschi grossi circondati da femmine.</p>
+<p>Mio cognato ha atteso mentre io avanzavo lentamente a quattro zampe nel campo. Mi sono fermato dove iniziavano i residui di grano tagliato, ho piazzato la mia esca nel terreno e poi ho strisciato indietro fino ai cespugli dove avevamo preparato la nostra postazione. Ho richiamato. Ancora. Poi, ho visto tra i cespugli che si stavano avvicinando.</p>
+<p>Abbiamo aspettato. Silenzio. L’aria era immobile. All’improvviso, erano lì, proprio davanti a noi. I maschi grandi, belli si sono avvicinati all’esca. Abbiamo fatto un respiro profondo, l’adrenalina scorreva nei nostri corpi. Abbiamo preso la mira e tirato il grilletto.</p>
+<p>I tacchini sono crollati lì, davanti a noi. Gli altri sono fuggiti.</p>
+<p>Li abbiamo portati a casa. Poco dopo li abbiamo macellati, cucinati e condivisi con la nostra famiglia per cena.</p>
+<p>Un altro successo. Un’altra primavera. La tradizione continua.</p>
+]]></description>
+            <link>https://bloccato.xyz/posts/la-caccia/</link>
+            <guid isPermaLink="true">https://bloccato.xyz/posts/la-caccia/</guid>
+            <category><![CDATA[Generale]]></category>
+            <pubDate>Tue, 20 May 2025 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Io Non Ho Paura (di leggere in italiano)]]></title>
+            <description><![CDATA[<p>Questa settimana ho cominciato una nuova sfida per me stesso: leggere un libro italiano, scritto in italiano, per gli italiani. Quando eravamo a Firenze abbiamo comprato un paio di libri, alcuni in inglese (su Firenze) e uno in italiano, intitolato “Io Non Ho Paura” di Niccolò Ammaniti. Ci è stato detto che questo libro sarebbe perfetto per gli studenti di italiano e quindi, anche se riuscivo solo a usare l’italiano dei ristoranti a quel tempo, l’ho comprato.</p>
+<p>La prima volta in cui ho provato a leggerlo, mi dava fastidio. A quel tempo studiavo solo al livello A1 e fin dall’inizio trovavo l’imperfetto, il congiuntivo, molte parole e molti verbi che non conoscevo. È stato frustrante, ma non ero deluso. L’ho abbandonato, e l’ho messo di nuovo sullo scaffale.</p>
+<p>Adesso, magari un anno dopo, ho deciso di riprovarci. Perché no? Sono bloccato dopotutto. Finora, è assolutamente una sfida ma è anche così soddisfacente. Certo, ci sono ancora molte, molte parole nuove. Certo, ci sono anche molti, molti verbi nuovi ma ho già completato il primo capitolo – le prime cinquanta pagine – e me lo sto davvero godendo.</p>
+<p>Presto scriverò una recensione di questo libro qui sul blog, e finora lo consiglierei. E poi – solo oggi – ho imparato che c’è un film che è basato su questo libro e non posso non guardarlo.</p>
+<p>A presto.</p>
+]]></description>
+            <link>https://bloccato.xyz/posts/io-non-ho-paura-di-leggere-in-italiano/</link>
+            <guid isPermaLink="true">https://bloccato.xyz/posts/io-non-ho-paura-di-leggere-in-italiano/</guid>
+            <category><![CDATA[Generale]]></category>
+            <pubDate>Fri, 16 May 2025 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Ecco La Primavera]]></title>
+            <description><![CDATA[<p>Meno male! Grazie a Dio! La primavera è arrivata! Ci siamo lasciati alle spalle il buio e finalmente possiamo vedere la luce!</p>
+<p>Gli inverni qui in Canada sono sempre duri a causa dei giorni corti, delle notti lunghe e del freddo persistente. Anche quando non nevica molto è un periodo dell’anno talmente deprimente. Però quando nevica molto le cose possono cambiare anche - ma dipende dal tipo di nevicata che riceviamo.</p>
+<p>A volte, nevica per una sola notte, per esempio, e poi durante il giorno dopo si scioglie e tutto diventa fango bagnato e poi, il tempo si raffredda di nuovo e tutto si trasforma al ghiaccio, ghiaccio fangoso, e continua così finché tutto diventa un casino. Altre volte può nevicare giorno dopo giorno e, in queste volte, tutto sembra uscito da una fiaba.</p>
+<p>Tuttavia, lasciami dire, in questi casi, la nevicata porta un paio di problemi: bisogna spalare la neve dal vialetto ogni giorno se si vuole usare la macchina - soprattutto quando è necessario usarla.</p>
+<p>Vabbè! È finito! E adesso possiamo goderci di una bella primavera. I fiori stanno sbocciando, gli uccelli come i cardinali, le ghiandaie blu e i merli dalle ali rosse sono tornati e ricominciano a visitare il mio giardino per mangiare il cibo che lascio fuori per loro ogni giorno. Ogni mattina, all’alba, quando mi alzo per andare in palestra, sento i tacchini che grugniscono nel campo accanto casa mia. Ogni sera, mentre fumo un sigaro guardando il tramonto, sento l’ululato dei coyote nello stesso campo. Alla fine del giorno, quando mi addormento, sento il verso dei gufi fuori dalla mia finestra.</p>
+<p>Che meraviglia. Che tranquillità. La speranza è tornata.</p>
+]]></description>
+            <link>https://bloccato.xyz/posts/ecco-la-primavera/</link>
+            <guid isPermaLink="true">https://bloccato.xyz/posts/ecco-la-primavera/</guid>
+            <category><![CDATA[Generale]]></category>
+            <pubDate>Mon, 12 May 2025 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Dove andrò questa volta?]]></title>
+            <description><![CDATA[<p><img src="https://bloccato.xyz/wp-content/uploads/2025/04/GettyImages-645915312-1024x576.webp" alt=""></p>
+<p>Al momento sto pianificando il mio prossimo lungo viaggio in Italia e sto lottando per decidere dove andare. Mi piacerebbe molto restare a Roma per circa due mesi, andare a scuola lì come ho fatto a Firenze l’anno scorso, ma al momento tutto lì sembra molto costoso. Un appartamento (molto, molto) semplice vicino al centro costa almeno duemila euro al mese, e per un appartamento un po’ più bello tremila euro o più.</p>
+<p>Firenze sembra molto costosa anche quest’anno, ma non è un’opzione perché ho bisogno di un posto da cui posso viaggiare facilmente e non riesco mai a trovare voli diretti da Firenze a Dublino o altrove fuori dall’Italia, e quest’anno abbiamo un sacco di eventi in tutta Europa a cui dobbiamo andare.</p>
+<p>Città più piccole come Torino sono più economiche ma se andassi lì, avrei bisogno di prendere un treno a Milano tutte le volte in cui devo viaggiare fuori dal paese.  A seconda dei voli, potrebbe essere una vera rottura di scatole.</p>
+<p>Per quanto riguarda la scuola, mi piacerebbe tornare alla Scuola Leonardo da Vinci, che ho frequentato per due settimana a Firenze vero la fine fine dell’anno scorso. È stata un’ottima esperienza, mi sono piaciuti molto gli insegnanti e ho imparato molto, quindi sarebbe la mia preferenza anche quest’anno. Hanno uffici solo a Firenze, Roma, Torino, Milano e Viareggio e poi ci sono un paio di scelte ma non ho alcun interesse ad andare a Milano, e Viareggio è troppo remoto.</p>
+<p>Un’altra considerazione è che dovrò lavorare quando sarò lì e quindi avrò bisogno di una connessione internet molto forte.</p>
+<p>Beh, lo capirò</p>
+]]></description>
+            <link>https://bloccato.xyz/posts/dove-andro-questa-volta/</link>
+            <guid isPermaLink="true">https://bloccato.xyz/posts/dove-andro-questa-volta/</guid>
+            <category><![CDATA[Generale]]></category>
+            <pubDate>Mon, 28 Apr 2025 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[La Pasqua in Irlanda]]></title>
+            <description><![CDATA[<p>Sono nato e cresciuto a Dublino e vivono lì per la maggior parte della mia vita prima di trasferirmi all’estero quando avevo quasi 30 anni. Ci torno ancora spesso per visitare la mia famiglia, e sono appena tornato da un piccolo viaggio lì per festeggiare la Pasqua, da giovedì a lunedì, e ho pensato che sarebbe un buon idea scrivere qualche appunto sulla mia esperienza.</p>
+<p>Siamo arrivati a Dublino molto presto venerdì mattina, verso le 5 ore, e ero esausto perché non sono riuscito a dormire per un minuto sul volo. Il nostro amico ci è venuto a prendere all’aeroporto e ci ha portato a casa sua dove alloggiavamo per il viaggio. Per fortuna, dopo una tazza di tè e una chiacchierata, siamo riusciti a fare un pisolino, risvegliandoci un paio di ore più tardi.</p>
+<p>Ovviamente il tempo era terribile e dunque la nostra giornata è cominciata al pub. A volte dimentico quanto sia buona la Guinness in Irlanda - è davvero incomparabile. Poi, abbiamo cenato in un ristorante italiano vicino alla casa del mio amico che è stata un’esperienza fantastica - abbiamo bevuto una bottiglia di Barolo che era gustoso, abbiamo mangiato molto bene ecc. e poi abbiamo preso un taxi a un pub nella zona in cui sono cresciuto che prima era una ferramenta.</p>
+<p>Abbiamo incontrato alcuni parenti lì e è stata una serata molto divertente. È sempre buono passare un po’ di tempo con la propria famiglia, dopo tutto.</p>
+<p>Sabato, dovevamo andare in città per cercare un vestito per il matrimonio del mio amico però pioveva molto e camminare per la città sotto la pioggia non è un’esperienza piacevole, ed a dire la verità avevamo tutti i postumi, e come risultato abbiamo passato il pomeriggio a casa guardando la TV.  Quella sera abbiamo incontrato più della mia famiglia per un aperitivo in un pub, a Ranelagh, e poi siamo andati in un ristorante di “Tapas” per la cena. Amiamo quel ristorante, ceniamo lì quasi tutte le volte in cui visitiamo Dublino. È affidabile, molto accogliente, le loro opzioni di cibo e vino sono sempre il top, ed è centrale senza essere in mezzo alla città. Dopo cena, siamo ritornati allo stesso pub e siamo rimasti lì fino a quando volevano chiudere le porte.</p>
+<p>Entro domenica mattina eravamo stanchi morti dopo le lunghe notti ma mia madre voleva ospitarci per pranzo a casa sua per Pasqua, quindi abbiamo dovuto alzarci e attraversare la città. È stato un bel pomeriggio e poi abbiamo incontrato un altro amico che vedo solo una volta all’anno per un paio di drink al pub. Abbiamo finito presto quella sera e poi siamo ritornati alla casa del mio amico da cui restavamo.</p>
+<p>Lunedì, quell’amico ci ha portato all’aeroporto e siamo volati a casa.</p>
+<p>Un’altra volta scriverò più dei miei pensieri dell’Irlanda, Dublino ecc. ma volevo scrivere qualcosa ora a prescindere.</p>
+]]></description>
+            <link>https://bloccato.xyz/posts/la-pasqua-in-irlanda/</link>
+            <guid isPermaLink="true">https://bloccato.xyz/posts/la-pasqua-in-irlanda/</guid>
+            <category><![CDATA[Generale]]></category>
+            <pubDate>Tue, 22 Apr 2025 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Ciao]]></title>
+            <description><![CDATA[<p>Avevo sempre voluto parlare un’altra lingua. Forse è qualcosa che ho nel sangue, ma sono sempre stato affascinato dalle persone bilingui, trilingui ecc. Guardo con meraviglia quelle che passano senza sforzo da una lingua all’altra… e anche con un po’ di gelosia.</p>
+<p>Io stesso, come la maggior parte delle persone, ho “imparato” un’altra lingua a scuola—il francese. Ma, proprio come succede a tanti, dopo aver finito la scuola non l’ho mai più usato. Un peccato.</p>
+<p>Qualche anno fa—credo fosse il 2015—sono andato in Italia per la prima volta e ho avuto un colpo di fulmine. La storia, gli edifici, le piazze, le strade antiche, essere circondato dalla cultura ovunque, il canto delle voci della gente che vive la propria quotidianità, il cibo… un bouquet di bellezza. Ero innamorato. E lo sono ancora.</p>
+<p>Negli anni successivi, abbiamo fatto molti viaggi in Italia, e ha iniziato a infastidirmi il fatto che, mentre posso immergermi nel paese, nella storia, nell’arte, non potevo capire le parole delle persone, non potevo sostenere una conversazione oltre quelle nei ristoranti.</p>
+<p>La pandemia, per quanto sia stata un disastro, ci ha dato l’opportunità di passare molti mesi all’estero ogni anno, e per fortuna abbiamo ancora questa possibilità oggi. All’inizio abbiamo sfruttato queste occasioni per viaggiare per l’Europa da turisti, ma alla fine siamo sempre tornati in Italia.</p>
+<p>Finalmente, l’anno scorso, abbiamo deciso di trascorrere questi mesi in Italia ogni anno. È lì che troviamo il nostro cuore. Lo so, è un po’ sdolcinato. Comunque, un anno fa, prima del nostro primo lungo soggiorno in Italia, ho iniziato a imparare la lingua, ed è davvero la cosa più gratificante che abbia mai fatto.</p>
+<p>Adesso, un anno dopo, mi trovo al livello B1, dove il mondo della lingua si apre… e con esso, la sensazione di essere bloccato. Per questo inizio questo blog: per ampliare le mie opportunità di usare questa bella lingua mentre aspetto la prossima occasione di scappare in Italia e immergermi di nuovo.</p>
+<p>E così, ciao.</p>
+]]></description>
+            <link>https://bloccato.xyz/posts/ciao/</link>
+            <guid isPermaLink="true">https://bloccato.xyz/posts/ciao/</guid>
+            <category><![CDATA[Generale]]></category>
+            <pubDate>Fri, 21 Feb 2025 00:00:00 GMT</pubDate>
+        </item>
+    </channel>
+</rss>

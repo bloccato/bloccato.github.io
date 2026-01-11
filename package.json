@@ -1,0 +1,39 @@
+{
+  "name": "bloccato",
+  "version": "1.0.0",
+  "description": "Minimalist Italian blog - static site generator",
+  "main": "src/build.js",
+  "scripts": {
+    "dev": "node src/build.js && npx pagefind --source public && npx http-server public -p 8080",
+    "build": "node src/build.js",
+    "test": "jest",
+    "test:watch": "jest --watch",
+    "test:coverage": "jest --coverage",
+    "export": "node scripts/export-wordpress.js",
+    "deploy": "npm run build && npx pagefind --source public",
+    "screenshot": "npm run build && node scripts/screenshot.js",
+    "review": "npm run screenshot && echo '\n📋 Screenshots ready for review in screenshots/'"
+  },
+  "keywords": [
+    "blog",
+    "static-site",
+    "minimalist"
+  ],
+  "author": "Bloccato",
+  "license": "MIT",
+  "type": "commonjs",
+  "devDependencies": {
+    "http-server": "^14.1.1",
+    "jest": "^30.2.0",
+    "nodemon": "^3.1.11",
+    "puppeteer": "^24.34.0"
+  },
+  "dependencies": {
+    "gray-matter": "^4.0.3",
+    "markdown-it": "^14.1.0",
+    "markdown-it-anchor": "^9.2.0",
+    "rss": "^1.2.2",
+    "turndown": "^7.2.2",
+    "xml2js": "^0.6.2"
+  }
+}
