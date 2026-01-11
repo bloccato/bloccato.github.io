@@ -14,7 +14,7 @@ const { listTemplate } = require('./templates/list');
 const { archiveTemplate } = require('./templates/archive');
 
 const CONTENT_DIR = path.join(__dirname, '../content/posts');
-const PUBLIC_DIR = path.join(__dirname, '../public');
+const PUBLIC_DIR = path.join(__dirname, '../docs');
 const STATIC_DIR = path.join(__dirname, '../static');
 const POSTS_PER_PAGE = 20;
 
