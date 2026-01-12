@@ -13,6 +13,12 @@
     <priority>0.8</priority>
   </url>
   <url>
+    <loc>https://bloccato.xyz/posts/oltre-lutopia/</loc>
+    <lastmod>2026-01-11</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
     <loc>https://bloccato.xyz/posts/venerdi-di-lingua-davanti-all-onda-e-oltre-il-droplet/</loc>
     <lastmod>2026-01-10</lastmod>
     <changefreq>monthly</changefreq>
@@ -139,6 +145,12 @@
     <priority>0.7</priority>
   </url>
   <url>
+    <loc>https://bloccato.xyz/categoria/generale/</loc>
+    
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
     <loc>https://bloccato.xyz/categoria/lingua/</loc>
     
     <changefreq>weekly</changefreq>
@@ -158,12 +170,6 @@
   </url>
   <url>
     <loc>https://bloccato.xyz/categoria/tecnico/</loc>
-    
-    <changefreq>weekly</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://bloccato.xyz/categoria/generale/</loc>
     
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>

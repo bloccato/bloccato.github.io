@@ -4,13 +4,13 @@
   "description": "Minimalist Italian blog - static site generator",
   "main": "src/build.js",
   "scripts": {
-    "dev": "node src/build.js && npx pagefind --source public && npx http-server public -p 8080",
+    "dev": "node src/build.js && npx pagefind --site docs && npx http-server docs -p 8080",
     "build": "node src/build.js",
     "test": "jest",
     "test:watch": "jest --watch",
     "test:coverage": "jest --coverage",
     "export": "node scripts/export-wordpress.js",
-    "deploy": "npm run build && npx pagefind --source public",
+    "deploy": "npm run build && npx pagefind --site docs",
     "screenshot": "npm run build && node scripts/screenshot.js",
     "review": "npm run screenshot && echo '\n📋 Screenshots ready for review in screenshots/'"
   },
