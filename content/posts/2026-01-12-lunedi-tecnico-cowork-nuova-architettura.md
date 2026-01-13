@@ -4,7 +4,7 @@ date: 2026-01-12
 category: Tecnico
 ---
 
-È solo lunedì e il mondo tecnico è ancora cambiato con il lancio di Claude Cowork. Come se Claude Code non bastasse, Anthropic ha deciso di portare le sue capacità fuori dal terminale e le mette dentro un’app desktop. Quest’idea, ci dicono, l’hanno concepita per la prima volta solo due settimane fa, e poi l’hanno sviluppata e rilasciata al pubblico oggi. Incredibile. Ciò testimonia la velocità possibile con Claude Code - e non solo la velocità, ma anche la qualità. 
+È solo lunedì e il mondo tecnico è ancora cambiato con il lancio di Claude Cowork. Come se Claude Code non bastasse, Anthropic ha deciso di portare le sue capacità fuori dal terminale per metterle dentro un’app desktop. Quest’idea, ci dicono, l’hanno concepita per la prima volta solo due settimane fa, e poi l’hanno sviluppata e rilasciata al pubblico oggi. Incredibile. Ciò testimonia la velocità possibile con Claude Code - e non solo la velocità, ma anche la qualità. 
 
 Certo, Claude Cowork è in anteprima di ricerca ed è disponibile solo per coloro che sottoscrivono l’abbonamento “Max”, ma questo prodotto porterà la forza di Claude Code alla persona media e cambierà il modo in cui si lavora e si pensa al proprio lavoro. Sebbene possa sembrare simile a Google Gemini nel senso che puoi accedere ai tuoi documenti, sintetizzare l’informazione, creare le presentazione, e così via, con Claude Cowork puoi dargli l’accesso alle tue cartelle locali in un modo molto semplice, ci lavori localmente, puoi connetterlo a molte altre applicazioni, (tramite i “connectors”), e puoi sia recuperare informazioni da fonti esterne che lavorare con sistemi esterni per arricchire il lavoro in corso.
 
