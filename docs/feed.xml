@@ -4,10 +4,26 @@
         <description><![CDATA[Blog minimalista italiano]]></description>
         <link>https://bloccato.xyz</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Tue, 13 Jan 2026 03:05:47 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 14 Jan 2026 02:22:42 GMT</lastBuildDate>
         <atom:link href="https://bloccato.xyz/feed.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Tue, 13 Jan 2026 03:05:47 GMT</pubDate>
+        <pubDate>Wed, 14 Jan 2026 02:22:42 GMT</pubDate>
         <language><![CDATA[it]]></language>
+        <item>
+            <title><![CDATA[Martedì di Salute — DOMS, Raffreddore e il Paradosso della Bilancia]]></title>
+            <description><![CDATA[<p>Mi sono pesato venerdì scorso per la prima volta dopo aver iniziato con Macrofactor. I risultati non mi hanno sorpreso - sono stati piuttosto prevedibili - il peso è rimasto più o meno lo stesso e la massa grassa è diminuita leggermente. Nella settimana precedente ho mangiato circa 2,000 calorie ogni giorno e mi sono allenato 6 volte e, per un uomo di mia stazza, dopo uno sforzo simile,ci si potrebbe aspettare un calo significativo, ma in realtà il dato riflette qualcos’altro - il mio corpo tratteneva l’acqua.</p>
+<p>Ci sono molte ragioni per cui questo può succedere ma nel mio caso la colpa è stata dei DOMS (indolenzimento muscolare a insorgenza ritardata). Ho sofferto molto di DOMS per la maggior parte della settimana, e quando il corpo è in questo stato, trattiene l’acqua fino a quando sarà adottato. Nessun problema, continuiamo così e vedremo i risultati questo venerdì.</p>
+<p>Devo menzionare che durante la settimana scorsa ero alle prese con un raffreddore, e lo sono tuttora, che sicuramente mi sta causando un’infiammazione: ecco un altro sospettato per l’origine della ritenzione.</p>
+<p>Credo che questo raffreddore si sia manifestato in altri modi, soprattutto la qualità del mio sonno. Ho dormito per un periodo di tempo ragionevole e salutare (almeno 7-8 ore a notte), ma i dati del mio Apple Watch dicono che o mi sveglio spesso durante la notte o la qualità è bassa indipendemente dalla durata. Non è una grande sorpresa considerando che ho il naso chiuso, ma non c’è dubbio che abbia un impatto fuori dalla mia energia.</p>
+<p>Questa settimana ho scoperto che ci sono problemi con la creatina prodotta in Cina. Tutta la creatina può contenere impurità, ma alcuni studi hanno rilevato che quelli che provengono dalla Cina contengono livelli alti di diciandiammide (DCD) e diidrotriazina (DHT) che possono essere molto dannosi per la salute - sono agenti cancerogeni. Non comprerei mai i prodotti per il corpo o la salute, come la creatina, anche gli integratori generali, dalla Cina se sapessi della loro provenienza, ma mi ha spinto a controllare la creatina che uso. Compro un marchio canadese “Allmax” che all’inizio usava il marchio di creapure - la creatina fabbricato in Germania , considerate la migliore - ma poi è passato a “creasyn”.</p>
+<p>Cos’è “creasyn”? È il marchio della stessa azienda, Allmax, ed è emerso che acquistano la creatina dalla Cina per poi pulirla, filtrarla e testarla in laboratorio per le impurità, e se tutto va bene, riceve un certificato di purezza. Dato che il laboratorio e il processo sono canadesi, non ci dovrebbero essere problemi, dovrebbe essere un sistema affidabile, ma allo stesso tempo la cosa mi mette un po’ a disagio e quindi quando avrò finito questo barattolo, potrei valutare le mie opzioni.</p>
+<p>Oltre a ciò, ho mangiato in modo molto sano e nel complesso non posso lamentarmi. Incrociamo le dita che il raffreddore passi presto.</p>
+<p>Andiamo avanti.</p>
+]]></description>
+            <link>https://bloccato.xyz/posts/martedi-di-salute-doms-raffreddore-la-bilancia/</link>
+            <guid isPermaLink="true">https://bloccato.xyz/posts/martedi-di-salute-doms-raffreddore-la-bilancia/</guid>
+            <category><![CDATA[Salute]]></category>
+            <pubDate>Tue, 13 Jan 2026 00:00:00 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Lunedì Tecnico - Claude Cowork e La Nuova Architettura del Blog]]></title>
             <description><![CDATA[<p>È solo lunedì e il mondo tecnico è ancora cambiato con il lancio di Claude Cowork. Come se Claude Code non bastasse, Anthropic ha deciso di portare le sue capacità fuori dal terminale per metterle dentro un’app desktop. Quest’idea, ci dicono, l’hanno concepita per la prima volta solo due settimane fa, e poi l’hanno sviluppata e rilasciata al pubblico oggi. Incredibile. Ciò testimonia la velocità possibile con Claude Code - e non solo la velocità, ma anche la qualità.</p>
