@@ -13,6 +13,12 @@
     <priority>0.8</priority>
   </url>
   <url>
+    <loc>https://bloccato.xyz/posts/mercoledi-di-mercato-49000-motivi/</loc>
+    <lastmod>2026-01-14</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
     <loc>https://bloccato.xyz/posts/martedi-di-salute-doms-raffreddore-la-bilancia/</loc>
     <lastmod>2026-01-13</lastmod>
     <changefreq>monthly</changefreq>
@@ -157,6 +163,12 @@
     <priority>0.7</priority>
   </url>
   <url>
+    <loc>https://bloccato.xyz/categoria/mercato/</loc>
+    
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
     <loc>https://bloccato.xyz/categoria/salute/</loc>
     
     <changefreq>weekly</changefreq>
@@ -176,12 +188,6 @@
   </url>
   <url>
     <loc>https://bloccato.xyz/categoria/lingua/</loc>
-    
-    <changefreq>weekly</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://bloccato.xyz/categoria/mercato/</loc>
     
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
