@@ -1,5 +1,5 @@
 ---
-title: "L'Internet Sta Morendo (Parte 1)"
+title: "Internet Sta Morendo (Parte 1)"
 date: 2026-01-18
 category: Generale
 ---

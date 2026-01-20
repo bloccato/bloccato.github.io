@@ -4,12 +4,29 @@
         <description><![CDATA[Blog minimalista italiano]]></description>
         <link>https://bloccato.xyz</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Mon, 19 Jan 2026 01:59:45 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 20 Jan 2026 02:09:58 GMT</lastBuildDate>
         <atom:link href="https://bloccato.xyz/feed.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Mon, 19 Jan 2026 01:59:45 GMT</pubDate>
+        <pubDate>Tue, 20 Jan 2026 02:09:58 GMT</pubDate>
         <language><![CDATA[it]]></language>
         <item>
-            <title><![CDATA[L'Internet Sta Morendo (Parte 1)]]></title>
+            <title><![CDATA[Lunedi Tecnico - Il Nuovo Collo di Bottiglia]]></title>
+            <description><![CDATA[<p>Che il lavoro degli sviluppatori software stia cambiando velocemente, ormai lo sanno tutti. Con Claude, Claude Code, Windsurf, Cursor e tutto il resto, è diventato più facile e veloce che mai produrre il codice e la sua qualità migliora con il rilascio di ogni modello nuovo.</p>
+<p>Tradizionalmente, uno sviluppatore prende un pezzo di lavoro - un bug, una storia, un epic - che il team ha già pianificato, scrive il codice e si spera anche alcuni test automatizzati, quando è soddisfatto apre una “pull request” su Github o un altro VCS (Version Control System in inglese, il sistema di controllo versione in italiano) che poi un altro sviluppatore revisiona - del codice, della stile, dei test (speriamo) e determina se soddisfa o meno i requisiti. Se ci sono dei problemi, il recensore scrive dei commenti e rimanda il lavoro allo sviluppatore per migliorarlo. Se tutto va bene, lo sviluppatore effettuare il merge del suo codice nel ramo master e poi, a seconda dell’azienda o dell’organizzazione tecnica, il codice entrerà in produzione prima o poi. Magari parleremo dell’integrazione continua e consegna continua (CI/CD) un’altra volta.</p>
+<p>Questo era il flusso di lavoro, generalmente, a cui ci eravamo abituati. Ha funzionato abbastanza bene e ha reso il lavoro prevedibile.</p>
+<p>Adesso, però, con i nuovi strumenti, non solo è diventato più veloce produrre il codice e, meno male, i test automatizzati, ma nella nostra esperienza ciò significa che la portata dei cambiamenti sta diventando sempre più grande e più complessa, il che significa che le recensioni che gli altri sviluppatori devono fare stanno diventando sempre più grandi e più complesse.</p>
+<p>Si può chiedere “non possiamo usare l’IA per fare le recensioni anche?” e la risposta, per ora comunque, è “no” perché sebbene la qualità del codice generato dai modelli stia migliorando, rimangono abbastanza problemi per cui, per il momento comunque, c’è ancora bisogno delle recensioni fatte dagli umani.</p>
+<p>Questo è il nostro nuovo collo di bottiglia - the bottleneck - nel flusso di lavoro ed è ciò di cui ogni team e ogni leader nel settore tecnico sta parlando. Vogliamo, sinceramente, abilitare il “vibe coding” e cogliere l’opportunità di apportare nuovo valore ai nostri clienti in un modo più veloce che mai, ma allo stesso tempo dobbiamo gestire i rischi perché la realtà rimane che quando va tutto bene, i clienti sono soddisfatti e diciamo tranquilli, ma non appena qualcosa va storto c’è un’eruzione di lamentele, minacce di lasciare e così via. E quando questo succede, diventa una vera rottura di scatole per tutte le persone coinvolte.</p>
+<p>E quindi affrontiamo un grande cambiamento, con opportunità fantastiche nelle nostre mani, che ha introdotto un nuovo e vero collo di bottiglia a cui dobbiamo trovare una soluzione o perderemo contro la concorrenza che o troverà quella soluzione o semplicemente non se ne fregherà se la qualità non sarà così alta ma offrirà un prezzo basso o simile.</p>
+<p>Non è irrisolvibile, ma è ciò che è sulla bocca di tutti questa settimana e quindi, per questo Lunedì Tecnico, uno sguardo su cosa sta succedendo nella mia vita professionale.</p>
+<p>Andiamo avanti.</p>
+]]></description>
+            <link>https://bloccato.xyz/posts/lunedi-tecnico-il-nuovo-collo-di-bottiglia/</link>
+            <guid isPermaLink="true">https://bloccato.xyz/posts/lunedi-tecnico-il-nuovo-collo-di-bottiglia/</guid>
+            <category><![CDATA[Tecnico]]></category>
+            <pubDate>Mon, 19 Jan 2026 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Internet Sta Morendo (Parte 1)]]></title>
             <description><![CDATA[<p>Me lo ricordo come se fosse ieri. Erano gli anni ‘90 e un compagno di classe, uno dei miei migliori amici, e la sua famiglia si erano appena trasferiti da dublino a kent, in inghilterra. Mi mancava, ma a quel tempo era difficile contattare un amico all’estero - i cellulari erano ancora rari, i telefoni fissi con un numero fisso, uno per casa a meno che non si foste ricchi, erano la norma. Era ancora comune mandare le cartoline ai propri amici a casa quando andavi in vacanza!</p>
 <p>Un giorno, all’improvviso, il nostro mondo intero è cambiato - mio padre ha installato una linea, comprato un 28k modem, li ha collegati al suo computer - probabilmente un Macintosh Color Classic perché a quel punto io avessi già il mio Macintosh personale, un Macintosh Classic II di 1991. Abbiamo sentito quel suono per la prima volta, quel suono strano che tutti quelli cresciuti tra gli anni ‘90 e i 2000 conoscono bene - il canto della connessione fra il proprio computer e il selvaggio mondo di Internet. Eravamo online.</p>
 <p>Presto dopo, ho trovato l’indirizzo email per il mio amico e riuscivamo a rimanere in contatto, almeno finché le nostre vite sono cambiate troppo, diventando così diverse che le email sono diminuite e, alla fine, hanno smesso di arrivare. Comunque sia, la mia vita era cambiata completamente per sempre.</p>
