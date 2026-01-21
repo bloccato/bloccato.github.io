@@ -4,10 +4,37 @@
         <description><![CDATA[Blog minimalista italiano]]></description>
         <link>https://bloccato.xyz</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Tue, 20 Jan 2026 02:09:58 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 21 Jan 2026 01:52:24 GMT</lastBuildDate>
         <atom:link href="https://bloccato.xyz/feed.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Tue, 20 Jan 2026 02:09:58 GMT</pubDate>
+        <pubDate>Wed, 21 Jan 2026 01:52:24 GMT</pubDate>
         <language><![CDATA[it]]></language>
+        <item>
+            <title><![CDATA[Martedì di Salute - Ashwagandha]]></title>
+            <description><![CDATA[<p>Innanzitutto, le statistiche della settimana (a seconda le app):</p>
+<ul>
+<li>Peso: 92,3 kg (-0,5kg)</li>
+<li>BF/massa grassa: 17,2% (-0,1%)</li>
+<li>Sessioni di allenamento: 6</li>
+<li>Nuovi record personali: 4</li>
+<li>Tempo medio di sonno: 7 ore e 7 minuti</li>
+<li>La composizione della mia dieta: ~1900 calorie compresi 242 g di proteine, 50 g di grassi e 110 g di carboidrati.</li>
+</ul>
+<p>Nonostante abbia ancora il raffreddore, mi sento fantastico questa settimana. Venerdì scorso è apparso un dolore alla mia cuffia dei rotatori e temevo che avrei affontato alcuni problemi nella palestra nei giorni successivi, tuttavia ho usato il Theragun ogni giorno da allora e, anche se non la sento ancora perfetta, non è emerso nessun problema. Anzi ho continuato a superare i miei record allenamento dopo allenamento.</p>
+<p>La palestra in sé sta diventando… interessante perché, dal nulla, sono apparsi molti membri nuovi nelle mattine lavorative dopo parecchie settimane di tranquillità. Chissà perché, magari pensavano che se si aspettassero un po’, non sarebbero considerati come “I Turisti di Gennaio”, ma il loro comportamento li rivela come tali. Tuttavia, come ho scritto nel post con lo stesso titolo, auguro loro il meglio.</p>
+<p>Ho fatto un paio di cambiamenti questa settimana:</p>
+<ul>
+<li>Ho iniziato a usare la nuova app “Macro Workouts”. Usavo “Jefit” che funzionava abbastanza bene, ma con Macro Workouts c’è un’integrazione con MacroFactor e Apple Health che voglio testare per vedere se funziona meglio (cioè vale il costo aggiuntivo o no). Ovviamente uso MacroFactor che devo dire mi impressiona. L’IA potrebbe essere meglio, ma per tracciare i macro è facilissimo e questo è ciò che conta.</li>
+<li>Ai miei integratori ho aggiunto 600 mg di ashwagandha la sera. Gli studi mostrano che porta molti benefici, ma per me i più importanti sono la riduzione del cortisolo, la qualità del mio sonno e la forza.</li>
+<li>Ho cambiato alcuni esercizi nel mio programma settimanale - mi sono reso conto che mettevo una pressione significativa sulla schiena e sul sistema nervoso centrale troppo spesso. Mentre ciò funziona perfettamente durante un ciclo di massa (un “bulk”), potrebbe causare problemi durante un ciclo di taglio (un “cut”), anche se finora mi sentivo bene, voglio evitare potenziali problemi che mi potrebbero impedirmi di allenarmi in futuro.</li>
+</ul>
+<p>Quindi continuerò così e vedrò i risultati per questa settimana venerdì mattina. Sospetto che Macrofactor mi abbia impostato su un livello troppo basso per quanto riguarda le calorie, ~1900 calorie così presto mentre mi alleno 6 volte a settimana, porto fuori i cani spesso e così via, a me non sembra logico, ma vedremo presto e credo che modificherà automaticamente gli obiettivi in seguito.</p>
+<p>Andiamo avanti.</p>
+]]></description>
+            <link>https://bloccato.xyz/posts/martedi-di-salute-ashwagandha/</link>
+            <guid isPermaLink="true">https://bloccato.xyz/posts/martedi-di-salute-ashwagandha/</guid>
+            <category><![CDATA[Salute]]></category>
+            <pubDate>Tue, 20 Jan 2026 00:00:00 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Lunedi Tecnico - Il Nuovo Collo di Bottiglia]]></title>
             <description><![CDATA[<p>Che il lavoro degli sviluppatori software stia cambiando velocemente, ormai lo sanno tutti. Con Claude, Claude Code, Windsurf, Cursor e tutto il resto, è diventato più facile e veloce che mai produrre il codice e la sua qualità migliora con il rilascio di ogni modello nuovo.</p>
