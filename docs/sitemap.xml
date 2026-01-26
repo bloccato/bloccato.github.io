@@ -13,6 +13,12 @@
     <priority>0.8</priority>
   </url>
   <url>
+    <loc>https://bloccato.xyz/posts/internet-sta-morendo-parte-due/</loc>
+    <lastmod>2026-01-25</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
     <loc>https://bloccato.xyz/posts/martedi-di-salute-ashwagandha/</loc>
     <lastmod>2026-01-20</lastmod>
     <changefreq>monthly</changefreq>
@@ -181,6 +187,12 @@
     <priority>0.7</priority>
   </url>
   <url>
+    <loc>https://bloccato.xyz/categoria/generale/</loc>
+    
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
     <loc>https://bloccato.xyz/categoria/salute/</loc>
     
     <changefreq>weekly</changefreq>
@@ -188,12 +200,6 @@
   </url>
   <url>
     <loc>https://bloccato.xyz/categoria/tecnico/</loc>
-    
-    <changefreq>weekly</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://bloccato.xyz/categoria/generale/</loc>
     
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
