@@ -4,10 +4,32 @@
         <description><![CDATA[Blog minimalista italiano]]></description>
         <link>https://bloccato.xyz</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Wed, 28 Jan 2026 03:04:18 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 03 Feb 2026 03:04:16 GMT</lastBuildDate>
         <atom:link href="https://bloccato.xyz/feed.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Wed, 28 Jan 2026 03:04:18 GMT</pubDate>
+        <pubDate>Tue, 03 Feb 2026 03:04:16 GMT</pubDate>
         <language><![CDATA[it]]></language>
+        <item>
+            <title><![CDATA[Lunedi Tecnico - Project Genie: L'Alba dei Mondi Sintetici]]></title>
+            <description><![CDATA[<p>La settimana scorsa Google DeepMind ha rilasciato un prototipo di ricerca intitolato “Progetto Genie” che è, essenzialmente, un generatore da testo a mondo - un’IA che non solo crea immagini o video, ma un ambiente 3D completamente interattivo e giocabile basato sui tuoi prompt.</p>
+<p><em>Il lato magico</em></p>
+<ul>
+<li>Descrivi un ambiente (ad es. “una città romana sotto la pioggia”)  e un personaggio (ad es. “un soldato alto”). L’IA usa un modello chiamato Nano Banana Pro per generare la base visiva iniziale</li>
+<li>Usi i controlli WASD per camminare, volare o guidare, il modello Genie 3 prevede cosa dovrebbe esistere nelle parti invisibili del mondo e le rende immediatamente</li>
+<li>Non solo un trucco; il mondo ha una propria logica. Gli oggetti rispondono alla gravità e alle collisioni, trasformandolo in un “mini-gioco”</li>
+</ul>
+<p>Questo è un grande salto avanti verso l’intelligenza artificiale generale (AGI). Imparando come funzionano i mondi semplicemente guardando dei video, l’IA sta sviluppando un senso di fisica del “senso comune&quot; e ragionamento spaziale.</p>
+<p>Nonostante sia disponibile solo agli utenti americani con l’abbonamento “Ultra”, il rilascio ha creato subito un po’ di caos quando i primi utenti hanno iniziato a generare versioni pirata dei videogiochi popolari come “Super Mario” e “The Legend of Zelda”, spingendo Google a implementare linee guida rigorose per i contenuti di terze parti.</p>
+<p>Il rilascio ha anche causato un calo nelle azioni delle grandi aziende di videogiochi poiché gli investitori erano preoccupati per il futuro dello sviluppo dei videogiochi tradizionali.</p>
+<p>Non sono un giocatore di videogiochi ma la possibilità di questa tecnologia mi entusiasma e mi affascina. Permette a chiunque, anche senza alcuna competenza di programmazione o modellazione 3D, di “prototipare” un mondo in pochi secondi. Si può immaginare cosa possa significare per la narrazione di storie e il potenziale dei mondi emergenti e infiniti.</p>
+<p>Oltre al gioco e alla narrazione, questa tecnologia può essere usata per addestrare la robotica nei mondi virtuali in modo che i robot possano imparare come interagire con il mondo fisico senza rompere le cose in realtà.</p>
+<p>Un altro grande salto avanti. Spettacolo.</p>
+<p>Andiamo avanti.</p>
+]]></description>
+            <link>https://bloccato.xyz/posts/lunedi-tecnico-progetto-genie/</link>
+            <guid isPermaLink="true">https://bloccato.xyz/posts/lunedi-tecnico-progetto-genie/</guid>
+            <category><![CDATA[Tecnico]]></category>
+            <pubDate>Mon, 02 Feb 2026 00:00:00 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Martedì di Salute - Il Muro dei -15 Gradi e il Limite del Sistema Nervoso]]></title>
             <description><![CDATA[<p>Innanzitutto, le statistiche della settimana (secondo le app):</p>

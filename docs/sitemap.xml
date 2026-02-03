@@ -13,6 +13,12 @@
     <priority>0.8</priority>
   </url>
   <url>
+    <loc>https://bloccato.xyz/posts/lunedi-tecnico-progetto-genie/</loc>
+    <lastmod>2026-02-02</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
     <loc>https://bloccato.xyz/posts/martedi-di-salute-il-muro-e-il-limite/</loc>
     <lastmod>2026-01-27</lastmod>
     <changefreq>monthly</changefreq>
@@ -193,6 +199,12 @@
     <priority>0.7</priority>
   </url>
   <url>
+    <loc>https://bloccato.xyz/categoria/tecnico/</loc>
+    
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
     <loc>https://bloccato.xyz/categoria/salute/</loc>
     
     <changefreq>weekly</changefreq>
@@ -200,12 +212,6 @@
   </url>
   <url>
     <loc>https://bloccato.xyz/categoria/generale/</loc>
-    
-    <changefreq>weekly</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://bloccato.xyz/categoria/tecnico/</loc>
     
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
