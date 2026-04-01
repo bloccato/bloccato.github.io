@@ -32,6 +32,7 @@ Per quanto riguarda gli sbagli dei figli:
 3. Riservatezza digitale. Mentre è importante per i figli avere una vita privata, la loro privacy, e lo spazio per fare errori, la realtà è che il mondo online rimane pieno di pericoli per i bambini e gli adolescenti - ci sono molte cose, troppe cose accessibile, a cui non dovrebbero vedere finché non diventano adulti e potranno capirle, e allo stesso modo ci sono molte persone in rete con cui non dovrebbero parlare. È comprensibile che ci possa essere imbarazzante parlare, ma tenere queste interazioni come un segreto potrebbe danneggiare la psiche dei figli o peggio ancora.
 
 ***Genitori e figli possono essere “amici”? Per quale motivo?***
+
 Forse “amici”, ma non amici veri, finché i loro figli diventano adulti indipendenti perché “amicizia” implica uguaglianza, e il rapporto tra i genitori e i loro figli non è uno di uguaglianza. Il ruolo dei genitori è importante nella vita dei bambini ed essere un genitore non significa essere amici. È un ruolo in cui si deve stabilire le regole, mantenere l’autorità, e dove possibile, comportarsi come si vorrebbe che si comportassero i bambini, cioè un modello da seguire. 
 
 ***Quali sono le “strategie” per mantenere l’armonia tra i genitori e figli?***
