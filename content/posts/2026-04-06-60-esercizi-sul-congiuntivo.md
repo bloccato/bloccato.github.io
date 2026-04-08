@@ -305,9 +305,9 @@ category: Generale
 
 ### 34\. Applicazione della Soluzione
 
-*   **Esercizio:** Non è che la soluzione sia sbagliata, è solo che forse non è stata applicata nel modo giusto.
+*   **Esercizio:** Non è che la soluzione \_**\_ (essere) sbagliata, è solo che forse non \_**\_ (applicare) nel modo giusto.
     
-*   **Soluzione:** (Già completata nel testo originale)
+*   **Soluzione:** Non è che la soluzione sia sbagliata, è solo che forse non è stata applicata nel modo giusto.
     
 *   _English:_ It's not that the solution is wrong, it's just that perhaps it wasn't applied correctly.
     

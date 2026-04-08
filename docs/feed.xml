@@ -4,9 +4,9 @@
         <description><![CDATA[Blog minimalista italiano]]></description>
         <link>https://bloccato.xyz</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Wed, 08 Apr 2026 01:08:00 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 08 Apr 2026 12:00:26 GMT</lastBuildDate>
         <atom:link href="https://bloccato.xyz/feed.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Wed, 08 Apr 2026 01:08:00 GMT</pubDate>
+        <pubDate>Wed, 08 Apr 2026 12:00:26 GMT</pubDate>
         <language><![CDATA[it]]></language>
         <item>
             <title><![CDATA[60 Esercizi Sul Congiuntivo - E Le Risposte]]></title>
@@ -412,10 +412,10 @@
 <h3 id="34.-applicazione-della-soluzione" tabindex="-1">34. Applicazione della Soluzione</h3>
 <ul>
 <li>
-<p><strong>Esercizio:</strong> Non è che la soluzione sia sbagliata, è solo che forse non è stata applicata nel modo giusto.</p>
+<p><strong>Esercizio:</strong> Non è che la soluzione _<strong>_ (essere) sbagliata, è solo che forse non _</strong>_ (applicare) nel modo giusto.</p>
 </li>
 <li>
-<p><strong>Soluzione:</strong> (Già completata nel testo originale)</p>
+<p><strong>Soluzione:</strong> Non è che la soluzione sia sbagliata, è solo che forse non è stata applicata nel modo giusto.</p>
 </li>
 <li>
 <p><em>English:</em> It’s not that the solution is wrong, it’s just that perhaps it wasn’t applied correctly.</p>
