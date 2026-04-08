@@ -377,7 +377,7 @@ category: Generale
 
 ### 42\. Punto di Vista
 
-*   **Esercizio:** Non che io \_**\_ (non apprezzare) il tuo punto di vista, ma mi sembra che tu \_**\_ (trascurare) un aspect fondamentale.
+*   **Esercizio:** Non che io \_**\_ (non apprezzare) il tuo punto di vista, ma mi sembra che tu \_**\_ (trascurare) un aspetto fondamentale.
     
 *   **Soluzione:** Non che io **non apprezzi** il tuo punto di vista, ma mi sembra che tu **trascuri** un aspetto fondamentale.
     
