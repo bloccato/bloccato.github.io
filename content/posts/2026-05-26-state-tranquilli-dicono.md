@@ -15,8 +15,8 @@ Sembra qualcosa di un fumetto di supereroi, ma di supereroi a quanto pare non ne
 Stanno scommettendo sul nostro futuro. E, come sempre, la scommessa è asimmetrica: se tutto va bene, si arricchiranno loro; se tutto va male, saremo noi a farne le spese, ancora una volta. È una situazione in cui il rischio è collettivo, ma il guadagno è privato. Ci dicono solo di non preoccuparci: in futuro saremo tutti ricchi. Però non spiegano come dovrebbe funzionare. State tranquilli, dicono. A questo punto mi ha rotto il cazzo. 
 
 Solo questa settimana i leader di due aziende enormi - Microsoft e Anthropic (l’azienda che finora ha prodotto alcuni dei modelli di IA più potenti) - hanno ripetuto i due aspetti più preoccupanti: 
-I posti di lavoro colletti bianchi scompariranno entro diciotto mesi (https://finance.yahoo.com/news/microsoft-ai-chief-white-collar-203951888.html)
-Non dovremmo affidare il potere dell’IA ai leader delle aziende che la sviluppano. E, cosa ancora più inquietante, durante lo sviluppo dei modelli sono già emersi comportamenti preoccupanti.(https://www.forbes.com/sites/aliciapark/2026/05/25/anthropic-billionaire-cofounder-joins-pope-leo-warns-ai-job-losses-will-spark-moral-imperative-of-historic-proportions/)
+* I posti di lavoro colletti bianchi scompariranno entro diciotto mesi (https://finance.yahoo.com/news/microsoft-ai-chief-white-collar-203951888.html)
+* Non dovremmo affidare il potere dell’IA ai leader delle aziende che la sviluppano. E, cosa ancora più inquietante, durante lo sviluppo dei modelli sono già emersi comportamenti preoccupanti.(https://www.forbes.com/sites/aliciapark/2026/05/25/anthropic-billionaire-cofounder-joins-pope-leo-warns-ai-job-losses-will-spark-moral-imperative-of-historic-proportions/)
 
 Beh, almeno finalmente c'è stata una conversazione. La risposta del Papa è stata sostanzialmente: “Certo, ma l’importante è non integrare quei modelli nei sistemi militari”. Purtroppo, per quello è troppo tardi: sta già accadendo.
 
